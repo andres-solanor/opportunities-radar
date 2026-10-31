@@ -1,0 +1,2462 @@
+[
+  {
+    "id": "MarketplaceCO1733810595",
+    "entidad": "INSTITUTO DE DESARROLLO URBANO",
+    "nit_entidad": "899999081",
+    "descripcion": "CONSTRUCCION PARA LA ADECUACION DE CALLE 13 AL SISTEMA DE TRANSPORTE PUBLICO MASIVO; CALZADAS DE TRAFICO MIXTO; NUEVAS CICLORRUTAS Y ESPACIO PUBLICO; DESDE LA CONEXION CON LA INTERSECCION DE PUENTE ARANDA (CRA 55) HASTA LA CRA 65 Y DESDE LA AVENIDA CONSTITUCION HASTA LA CRA 69F; INCLUIDAS LAS DEMAS OBRAS COMPLEMENTARIAS EN BOGOTA DC",
+    "valor": 558787402631.0,
+    "mes_esperado": 10,
+    "anio": 2026,
+    "modalidad": null,
+    "duracion": "2610 día(s)",
+    "origen_recursos": null,
+    "unspsc": [
+      "72141000",
+      "72141100",
+      "72141600"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1731803689",
+    "entidad": "MUNICIPIO DE SAN MIGUEL PUTUMAYO",
+    "nit_entidad": "800252922",
+    "descripcion": "OPTIMIZACION Y OBRAS COMPLEMENTARIAS EN LA PLANTADE TRATAMIENTO DE AGUAS RESIDUALES (PTAR) EN EL MUNICIPIO DE SAN MIGUEL; DEPARTAMENTO DEL PUTUMAYO",
+    "valor": 223215118000.0,
+    "mes_esperado": 10,
+    "anio": 2026,
+    "modalidad": null,
+    "duracion": "Mes(es)",
+    "origen_recursos": "Sistema General de Participaciones",
+    "unspsc": [
+      "72121505",
+      "72121507",
+      "72151906"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1735381416",
+    "entidad": "GOBERNACIÓN DE LA GUAJIRA",
+    "nit_entidad": "8921150151",
+    "descripcion": "ID 1762 CONSTRUCCION DE UNA VARIANTE PARA MEJORAR LA CONECTIVIDAD REGIONAL DEL DEPARTAMENTO DE LA GUAJIRA",
+    "valor": 160182258227.0,
+    "mes_esperado": 10,
+    "anio": 2026,
+    "modalidad": null,
+    "duracion": "Mes(es)",
+    "origen_recursos": "Regalias",
+    "unspsc": [
+      "72141000",
+      "72141100"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": "LPO-008-2026",
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10836918&isFromPublicArea=True&isModal=true&asPopupView=true",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1732861742",
+    "entidad": "AGENCIA REGIONAL DE MOVILIDAD",
+    "nit_entidad": "901876510",
+    "descripcion": "AUNAR ESFUERZOS TECNICOS; JURIDICOS; ADMINISTRATIVOS Y FINANCIEROS ENTRE LAS PARTES; EN EL MARCO DE SUS COMPETENCIAS; PARA ADELANTAR LA GESTION; CONTRATACION Y CONSTRUCCION DE LA INFRAESTRUCTURA DEL TRAMO 1 DE LA FASE IV DE TRANSMILENIO EN SOACHA",
+    "valor": 133707000000.0,
+    "mes_esperado": 10,
+    "anio": 2026,
+    "modalidad": "CONTRATACION DIRECTA",
+    "duracion": "Mes(es)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "72141000",
+      "72141100",
+      "72141500",
+      "72141600",
+      "72152900",
+      "72151501"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      },
+      {
+        "id": "interventoria_consultoria",
+        "name": "Interventoría & Consultoría"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1735158139",
+    "entidad": "SECRETARIA DE EDUCACION DEL DISTRITO",
+    "nit_entidad": "8999990619",
+    "descripcion": "8060-1-68 (2026) SUMINISTRAR ALIMENTOS PARA LA OPERACION DEL PROGRAMA DE ALIMENTACION ESCOLAR  PAE-; CON OCASION DEL UNDECIMO EVENTO DE COTIZACION EN EL MARCO DEL INSTRUMENTO DE AGREGACION DE LA DEMANDA CCE-205-IAD-2023 SUSCRITO ENTRE LA AGENCIA NACIONAL DE CONTRATACION PUBLICA - COLOMBIA COMPRA EFICIENTE; LA SECRETARIA DE EDUCACION DEL DISTRITO Y LOS PROVEEDORES QUE RESULTARON ADJUDICATARIOS EN LA LICITACION PUBLICA CCENEG-071-01-2022",
+    "valor": 121272775717.0,
+    "mes_esperado": 10,
+    "anio": 2026,
+    "modalidad": null,
+    "duracion": "Mes(es)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "93131608",
+      "90101603"
+    ],
+    "sectores": [
+      {
+        "id": "alimentacion_escolar",
+        "name": "Alimentación Escolar (PAE)"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": "267"
+  },
+  {
+    "id": "MarketplaceCO1725790618",
+    "entidad": "AEROCIVIL",
+    "nit_entidad": "899999059",
+    "descripcion": "66000C1972 REALIZAR ESTUDIOS; DISEÑOS Y OBRAS DE MEJORAMIENTO DE LA PISTA; CALLES DE RODAJE Y PLATAFORMA DEL AEROPUERTO INTERNACIONAL ALFONSO BONILLA ARAGON UE SIRVE A LA CIUDAD DE CALI (VF)",
+    "valor": 108416064000.0,
+    "mes_esperado": 10,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA (OBRA PUBLICA)",
+    "duracion": "1590 día(s)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "81101500",
+      "72141000",
+      "72103300",
+      "72141100",
+      "72101500"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      },
+      {
+        "id": "interventoria_consultoria",
+        "name": "Interventoría & Consultoría"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1735283942",
+    "entidad": "MUNICIPIO SANTA ROSA DE OSOS",
+    "nit_entidad": "890981554",
+    "descripcion": "CONTRATO INTERADMINISTRATIVO DE MANDATO SIN REPRESENTACION POR ADMINISTRACION DELEGADA PARA LA ADQUISICION DE VOLQUETAS PARA EL DESARROLLO DE LOS DISTINTOS PROYECTOS Y OBRAS EN EL MUNICIPIO DE SANTA ROSA DE OSOS; ANTIOQUIA",
+    "valor": 104879623357.0,
+    "mes_esperado": 10,
+    "anio": 2026,
+    "modalidad": null,
+    "duracion": "Mes(es)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "25101601"
+    ],
+    "sectores": [
+      {
+        "id": "vehiculos_maquinaria",
+        "name": "Vehículos & Maquinaria"
+      }
+    ],
+    "proceso_relacionado": "COINTER DOA 019 2026",
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11124741&isFromPublicArea=True&isModal=true&asPopupView=true",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1733286259",
+    "entidad": "DISTRITO ESPECIAL INDUSTRIAL Y PORTUARIO DE BARRANQUILLA",
+    "nit_entidad": "890102018",
+    "descripcion": "OBRAS DE INFRAESTRUCTURA PARA EL FORTALECIMIENTO DE LA SEGURIDAD Y CONVIVENCIA EN EL DISTRITO DE BARRANQUILLA FASE 2",
+    "valor": 95947137840.0,
+    "mes_esperado": 10,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA (OBRA PUBLICA)",
+    "duracion": "Mes(es)",
+    "origen_recursos": "Recursos de credito",
+    "unspsc": [
+      "72101500",
+      "72102900",
+      "72103300",
+      "72121400"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1733758025",
+    "entidad": "GOBERNACION DEL MAGDALENA",
+    "nit_entidad": "800103920",
+    "descripcion": "AUNAR ESFUERZOS TECNICOS; ADMINISTRATIVOSYFINANCIEROSENTRE CDP 2609ELDEPARTAMENTODELMAGDALENA Y EL MUNICIPIO DEPIJINO DEL CARMEN; ENCUMPLIMIENTO DE LAPROVIDENCIA JUDICIAL DE FECHA 6 DE JULIO DE 2026; PROFERIDA POR EL JUZGADO UNICO PENAL DEL CIRCUITO DE EL BANCO; MAGDALENA; PARA MITIGAR LA PROBLEMATICASANITARIAY AMBIENTALGENERADA POR LA PRESENCIA DE MURCIELAGOS EN LAINSTITUCIONEDUCATIVADEPARTAMENTAL PIJINO DELCARMEN;MEDIANTEACTIVIDADES DEAHUYENTAMIENTOEINSTALACION DEMALLAMETALICA GALVANIZADA",
+    "valor": 60356795000.0,
+    "mes_esperado": 10,
+    "anio": 2026,
+    "modalidad": null,
+    "duracion": "Mes(es)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "30111903",
+      "30152001",
+      "72102100",
+      "76101500"
+    ],
+    "sectores": [
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1733811161",
+    "entidad": "INSTITUTO DE DESARROLLO URBANO",
+    "nit_entidad": "899999081",
+    "descripcion": "INTERVENTORIA INTEGRAL A LA CONSTRUCCION PARA LA ADECUACION DE CALLE 13 AL SISTEMA DE TRANSPORTE PUBLICO MASIVO; CALZADAS DE TRAFICO MIXTO; NUEVAS CICLORRUTAS Y ESPACIO PUBLICO; DESDE LA CONEXION CON LA INTERSECCION DE PUENTE ARANDA (CRA 55) HASTA LA CRA 65 Y DESDE LA AVENIDA CONSTITUCION HASTA LA CRA 69F; INCLUIDAS LAS DEMAS OBRAS COMPLEMENTARIAS EN BOGOTA DC",
+    "valor": 52910920586.0,
+    "mes_esperado": 10,
+    "anio": 2026,
+    "modalidad": null,
+    "duracion": "2610 día(s)",
+    "origen_recursos": null,
+    "unspsc": [
+      "81101500",
+      "81102200"
+    ],
+    "sectores": [
+      {
+        "id": "interventoria_consultoria",
+        "name": "Interventoría & Consultoría"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1735285021",
+    "entidad": "ALCALDIA MUNICIPAL DE VALLEDUPAR",
+    "nit_entidad": "800098911",
+    "descripcion": "MEJORAMIENTO DE LA CONECTIVIDAD VIAL URBANA DEL MUNICIPIO DE VALLEDUPAR; DEPARTAMENTO DEL CESAR",
+    "valor": 45811910533.0,
+    "mes_esperado": 10,
+    "anio": 2026,
+    "modalidad": null,
+    "duracion": "Mes(es)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "72101500",
+      "72153900",
+      "72141100",
+      "72141600"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": "LOP-SOP-001-2026",
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10940370&isFromPublicArea=True&isModal=true&asPopupView=true",
+    "version_paa": "664"
+  },
+  {
+    "id": "MarketplaceCO1735207166",
+    "entidad": "ALCALDIA DE FLORIDABLANCA",
+    "nit_entidad": "890205176",
+    "descripcion": "LINEA1004:SUMINISTRO PARA LA ENTREGA DE RACIONES ALIMENTARIAS DEL PROGRAMA DE ALIMENTACION ESCOLAR PAE PARA NINOS; NINAS; ADOLESCENTES Y JOVENES MATRICULADOS Y FOCALIZADOS EN LAS INSTITUCIONES EDUCATIVAS OFICIALES DEL MUNICIPIO DE FLORIDABLANCA -SANTANDER VIGENCIA 2027",
+    "valor": 30872743023.0,
+    "mes_esperado": 10,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA",
+    "duracion": "Mes(es)",
+    "origen_recursos": "Sistema General de Participaciones",
+    "unspsc": [
+      "90101600",
+      "90101800",
+      "90101500",
+      "93131600",
+      "50193000"
+    ],
+    "sectores": [
+      {
+        "id": "alimentacion_escolar",
+        "name": "Alimentación Escolar (PAE)"
+      },
+      {
+        "id": "eventos_logistica_viveres",
+        "name": "Eventos, Logística & Víveres"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1713709581",
+    "entidad": "UNIDAD ADMINISTRATIVA ESPECIAL DE LA JUSTICIA PENAL MILITAR Y POLICIAL",
+    "nit_entidad": "900384997",
+    "descripcion": "PRESTACION DE SERVICIO DE RED CORPORATIVA WAN-LAN DE TELECOMUNICACIONES Y CIBERSEGURIDAD PARA LA UNIDAD ADMINISTRATIVA ESPECIAL DE LA JUSTICIA PENAL MILITAR Y POLICIAL DE LA JUSTICIA PENAL MILITAR Y POLICIAL A NIVEL NACIONAL",
+    "valor": 30250058390.0,
+    "mes_esperado": 10,
+    "anio": 2026,
+    "modalidad": null,
+    "duracion": "Mes(es)",
+    "origen_recursos": "Presupuesto de entidad nacional",
+    "unspsc": [
+      "43222500",
+      "81111800",
+      "81112100",
+      "81161700",
+      "83111600",
+      "45111900"
+    ],
+    "sectores": [
+      {
+        "id": "tecnologia",
+        "name": "Tecnología & Equipos de Cómputo"
+      }
+    ],
+    "proceso_relacionado": "No. UAEJPMP-LP-002-2026.",
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10940936&isFromPublicArea=True&isModal=true&asPopupView=true",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1729565079",
+    "entidad": "SENA DIRECCION GENERAL",
+    "nit_entidad": "899999034",
+    "descripcion": "1_4042_33_SUMINISTRO DE ENERGIA Y POTENCIA ELECTRICA DE ENERGIAS RENOVABLES AL SERVICIO NACIONAL DE APRENDIZAJE SENA; A TRAVES DE COMPRA DE ENERGIA PPA ONSITE (POWER PURCHASE AGREEMENT); PARA ATENDER SU PROPIA DEMANDA; INCLUYENDO PRESTACION DE SERVICIOS DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE SISTEMAS SOLARES FOTOVOLTAICOS PROPIOS DEL SENA",
+    "valor": 30000000000.0,
+    "mes_esperado": 10,
+    "anio": 2026,
+    "modalidad": "CONTRATACION DIRECTA (CON OFERTAS)",
+    "duracion": "3650 día(s)",
+    "origen_recursos": "Presupuesto de entidad nacional",
+    "unspsc": [
+      "56111605",
+      "72101517",
+      "83101804",
+      "83101902"
+    ],
+    "sectores": [
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      },
+      {
+        "id": "dotacion_mobiliario",
+        "name": "Dotación, Uniformes & Mobiliario"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1723503208",
+    "entidad": "FISCALÍA GENERAL DE LA NACIÓN REGIONAL CENTRAL",
+    "nit_entidad": "800187567",
+    "descripcion": "LA FISCALIA GENERAL DE LA NACION A TRAVES DE LA SUBDIRECCION REGIONAL DE APOYO CENTRAL; REQUIERE CONTRATAR LOS SERVICIOS DE ASEO Y LIMPIEZA SEDES DE LA FISCALIA REGIONAL CENTRAL SECCIONALES BOGOTA; BOYACA; CUNDINAMARCA Y AMAZONAS",
+    "valor": 28984427660.0,
+    "mes_esperado": 10,
+    "anio": 2026,
+    "modalidad": "SELECCION ABREVIADA CON SUBASTA INVERSA",
+    "duracion": "480 día(s)",
+    "origen_recursos": "Presupuesto de entidad nacional",
+    "unspsc": [
+      "76111500",
+      "76111600",
+      "90101700",
+      "72102900"
+    ],
+    "sectores": [
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      },
+      {
+        "id": "alimentacion_escolar",
+        "name": "Alimentación Escolar (PAE)"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1735568089",
+    "entidad": "ALCALDIA LOCAL DE KENNEDY",
+    "nit_entidad": "899999061",
+    "descripcion": "K-1008_AUNAR ESFUERZOS TECNICOS; ADMINISTRATIVOS; FINANCIEROS Y JURIDICOS PARA LA GESTION Y CONSERVACION DEL ESPACIO PUBLICO PARA LA MOVILIDAD DE LA LOCALIDAD DE KENNEDY",
+    "valor": 26520008926.0,
+    "mes_esperado": 10,
+    "anio": 2026,
+    "modalidad": null,
+    "duracion": "Mes(es)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "81102200",
+      "80101600",
+      "72141100"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      },
+      {
+        "id": "interventoria_consultoria",
+        "name": "Interventoría & Consultoría"
+      }
+    ],
+    "proceso_relacionado": "FDLK-CD-696-2026.",
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11045968&isFromPublicArea=True&isModal=true&asPopupView=true",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1729703491",
+    "entidad": "BANCO AGRARIO DE COLOMBIA S.A.",
+    "nit_entidad": "800037800",
+    "descripcion": "PAC-2026-1092; CUBRIR LA CONTRATACION DEL SUMINISTRO DE FORMAS BANCARIAS; ELEMENTOS DE ASEO Y CAFETERIA Y UTILES DE ESCRITORIO Y PAPELERIA",
+    "valor": 25274085129.0,
+    "mes_esperado": 10,
+    "anio": 2026,
+    "modalidad": "CONTRATACION REGIMEN ESPECIAL",
+    "duracion": "Mes(es)",
+    "origen_recursos": null,
+    "unspsc": [
+      "72101507"
+    ],
+    "sectores": [
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1732861748",
+    "entidad": "AGENCIA REGIONAL DE MOVILIDAD",
+    "nit_entidad": "901876510",
+    "descripcion": "AUNAR ESFUERZOS TECNICOS; ADMINISTRATIVOS; FINANCIEROS Y OPERATIVOS ENTRE LA AGENCIA REGIONAL DE MOVILIDAD - ARM Y TRANSMILENIO SA PARA ADELANTAR DE MANERA INTEGRAL LAS INTERVENCIONES REQUERIDAS EN LA INFRAESTRUCTURA ASOCIADA A LAS ESTACIONES DE LA TRONCAL NQS DEL SISTEMA TRANSMILENIO Y SU EXTENSION AL MUNICIPIO DE SOACHA; VINCULADAS FUNCIONALMENTE AL CORREDOR BOGOTA-SOACHA-BOGOTA; CON EL FIN DE FORTALECER LAS CONDICIONES DE INFRAESTRUCTURA; OPERACION; SEGURIDAD; CONTROL DE ACCESO E INTEGRACION FUNCIONAL DEL SERVICIO PUBLICO DE TRANSPORTE DE PASAJEROS; EN DESARROLLO DEL CONVENIO MARCO INTERADMINISTRATIVO NO ARM-072-2026",
+    "valor": 23296019288.0,
+    "mes_esperado": 10,
+    "anio": 2026,
+    "modalidad": "CONTRATACION DIRECTA",
+    "duracion": "Mes(es)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "72141600",
+      "72102900",
+      "72152400",
+      "30171510",
+      "46171619",
+      "72151700"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      },
+      {
+        "id": "interventoria_consultoria",
+        "name": "Interventoría & Consultoría"
+      }
+    ],
+    "proceso_relacionado": "ARM-CD-150-2026",
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10998267&isFromPublicArea=True&isModal=true&asPopupView=true",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1734721718",
+    "entidad": "DEPARTAMENTO DEL ARAUCA",
+    "nit_entidad": "8001028385",
+    "descripcion": "FORTALECIMIENTO A LA IMPLEMENTACION DEL PROGRAMA DE ALIMENTACION ESCOLAR -PAE- DIRIGIDO A LOS NIÑOS; NIÑAS; ADOLESCENTES Y JOVENES MATRICULADOS EN LAS SEDES EDUCATIVAS OFICIALES PRIORIZADAS POR EL DEPARTAMENTO DE ARAUCA - POBLACION MAYORITARIA CONFORME A LA RESOLUCION NO 003 DE 2026 (PROYECTO CON AUTORIZACION DE VIGENCIAS FUTURAS ORDINARIAS  ORDENANZA NO 225 DE 2026)",
+    "valor": 23203504860.0,
+    "mes_esperado": 10,
+    "anio": 2026,
+    "modalidad": null,
+    "duracion": "día(s)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "10191500",
+      "41104000",
+      "50111500",
+      "50131600",
+      "50131700",
+      "50131800"
+    ],
+    "sectores": [
+      {
+        "id": "horeca_industrial",
+        "name": "HORECA & Maquinaria Gastronómica"
+      },
+      {
+        "id": "eventos_logistica_viveres",
+        "name": "Eventos, Logística & Víveres"
+      }
+    ],
+    "proceso_relacionado": "SU-06-IN-004-2026.",
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11115702&isFromPublicArea=True&isModal=true&asPopupView=true",
+    "version_paa": "677"
+  },
+  {
+    "id": "MarketplaceCO1725790465",
+    "entidad": "AEROCIVIL",
+    "nit_entidad": "899999059",
+    "descripcion": "66000C1951 REALIZAR LA CONSTRUCCION DEL TERMINAL DE PASAJEROS Y OBRAS COMPLEMENTARIAS DEL AEROPUERTO GOLFO DE MORROSQUILLO DE TOLU; SUCRE (VF)",
+    "valor": 201822489552.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA (OBRA PUBLICA)",
+    "duracion": "1260 día(s)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "72141100",
+      "72121400"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1725790452",
+    "entidad": "AEROCIVIL",
+    "nit_entidad": "899999059",
+    "descripcion": "66000C2042 REALIZAR OBRAS DE AMPLIACION; MEJORAMIENTO Y/O CONSTRUCCION DE LA INFRAESTRUCTURA DEL LADO AIRE Y TIERRA DEL AEROPUERTO INTERNACIONAL EL EDEN DE ARMENIA; CON BASE EN ESTUDIOS DEL PAL 1; INCLUYE SUMINISTRO E INSTALACION DE AYUDAS VISUALES VF",
+    "valor": 190360345740.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA (OBRA PUBLICA)",
+    "duracion": "720 día(s)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "72141000",
+      "72141100",
+      "72141500",
+      "72151500"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1725790646",
+    "entidad": "AEROCIVIL",
+    "nit_entidad": "899999059",
+    "descripcion": "66100C2084 CONTRATAR LA PRESTACION DE LOS SERVICIOS DE DIAGNOSTICO Y EVALUACION; MANTENIMIENTO Y OPERACION DE LOS SISTEMAS DE TRATAMIENTO DE AGUA POTABLE; RESIDUALES E INDUSTRIALES DE LOS AEROPUERTOS ADMINISTRADOS POR AEROCIVIL POR LOTES (VF)",
+    "valor": 144693755839.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA",
+    "duracion": "1307 día(s)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "47101500",
+      "72102900",
+      "72121500",
+      "76121700",
+      "77121700",
+      "80101500"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "agua_saneamiento",
+        "name": "Agua Potable & Saneamiento"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1722814099",
+    "entidad": "INVIAS",
+    "nit_entidad": "800215807",
+    "descripcion": "SOLUCION INTEGRAL DEL PASO SOBRE EL RIO MAGDALENA MEDIANTE LA DEMOLICION ; DESMONTAJE PARCIAL DEL PUENTE LAUREANO GOMEZ (ANTIGUO PUENTE PUMAREJO) EN LOS DEPARTAMENTOS DE MAGDALENA Y ATLANTICO",
+    "valor": 142716117128.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA (OBRA PUBLICA)",
+    "duracion": "Mes(es)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "72141500"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1735211568",
+    "entidad": "UNAD",
+    "nit_entidad": "860512780",
+    "descripcion": "ADQUIRIR EQUIPOS DE LABORATORIO; SOFTWARE ACADEMICO; SIMULADORES Y ELEMENTOS COMPLEMENTARIOS REQUERIDOS PARA EL FORTALECIMIENTO DEL COMPONENTE PRACTICO; LOS PROCESOS DE FORMACION; INVESTIGACION E INNOVACION DE LAS ESCUELAS; VICERRECTORIAS; UNIDADES ACADEMICAS; EL SISTEMA NACIONAL DE EDUCACION PERMANENTE (ALFABETIZACION; EDUCACION BASICA Y MEDIA) Y LAS REDES FUNCIONALES DE LA VIMEP; DE CONFORMIDAD CON LAS ESPECIFICACIONES Y REQUERIMIENTOS TECNICOS ESTABLECIDOS EN EL ANEXO 4 MATRIZ DE REQUERIMIENTOS DE EQUIPOS",
+    "valor": 140000000000.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "CONTRATACION REGIMEN ESPECIAL",
+    "duracion": "Mes(es)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "23261507",
+      "41103302",
+      "41103309",
+      "41103310",
+      "41103311",
+      "41103312"
+    ],
+    "sectores": [
+      {
+        "id": "horeca_industrial",
+        "name": "HORECA & Maquinaria Gastronómica"
+      },
+      {
+        "id": "tecnologia",
+        "name": "Tecnología & Equipos de Cómputo"
+      },
+      {
+        "id": "salud_insumos",
+        "name": "Salud: Insumos & Equipos Médicos"
+      },
+      {
+        "id": "dotacion_mobiliario",
+        "name": "Dotación, Uniformes & Mobiliario"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1728004862",
+    "entidad": "EMPRESA DE ACUEDUCTO Y ALCANTARILLADO DE BOGOTÁ - E.S.P.",
+    "nit_entidad": "899999094",
+    "descripcion": "I504-CONTRATAR BAJO LA MODALIDAD DE CONCESION DE DERECHO PRIVADO TODAS LAS ACTIVIDADES NECESARIAS PARA LA FINANCIACION; LA ELABORACION Y ENTREGA DE LOS ESTUDIOS Y DISEÑOS; Y LA EJECUCION DE LAS UNIDADES DE EJECUCION; ASI COMO LA GESTION SOCIAL Y AMBIENTAL LA PUESTA EN MARCHA; LA ESTABILIZACION; LA REVERSION PARCIAL; LA OPERACION; EL MANTENIMIENTO Y LA REVERSION DE LA PLANTA DE TRATAMIENTO DE AGUAS RESIDUALES DE CANOAS",
+    "valor": 126589347577.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "CONTRATACION REGIMEN ESPECIAL",
+    "duracion": "228 Mes(es)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "81101500",
+      "80101600",
+      "81101700",
+      "81101600",
+      "72101500"
+    ],
+    "sectores": [
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      },
+      {
+        "id": "interventoria_consultoria",
+        "name": "Interventoría & Consultoría"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1725790369",
+    "entidad": "AEROCIVIL",
+    "nit_entidad": "899999059",
+    "descripcion": "66000C1952 REALIZAR LA CONSTRUCCION DE LAS CALLES DE RODAJE; PLATAFORMA Y OBRAS COMPLEMENTARIAS DEL LADO AIRE DEL AEROPUERTO GOLFO DE MORROSQUILLO DE TOLU; SUCRE (VF)",
+    "valor": 96526809149.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA (OBRA PUBLICA)",
+    "duracion": "1260 día(s)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "72141000",
+      "72141100"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1725790379",
+    "entidad": "AEROCIVIL",
+    "nit_entidad": "899999059",
+    "descripcion": "66000C1965 REALIZAR EL MEJORAMIENTO DE LA INFRAESTRUCTURA LADO AIRE DEL AERODROMO DE EL CHARCO; DEPARTAMENTO DE NARIÑO (VF)",
+    "valor": 91478854852.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA (OBRA PUBLICA)",
+    "duracion": "1140 día(s)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "72141000",
+      "72141100",
+      "72141500"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1733732468",
+    "entidad": "GOBERNACIÓN DE BOLÍVAR//",
+    "nit_entidad": "890480059",
+    "descripcion": "IMPLEMENTACION DEL PROGRAMA DE ALIMENTACION ESCOLAR PAE 2027 BOLIVAR",
+    "valor": 90000000000.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA",
+    "duracion": "Mes(es)",
+    "origen_recursos": "Regalias",
+    "unspsc": [
+      "90101600",
+      "90101800",
+      "85151600",
+      "85151700",
+      "93131600",
+      "80141700"
+    ],
+    "sectores": [
+      {
+        "id": "alimentacion_escolar",
+        "name": "Alimentación Escolar (PAE)"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1725795911",
+    "entidad": "CORPORACIÓN AUTÓNOMA DEL RÍO GRANDE DE LA MAGDALENA**",
+    "nit_entidad": "829000127",
+    "descripcion": "488-MANTENIMIENTO MEDIANTE DRAGADO DEL CANAL NAVEGABLE EN EL RIO GRANDE DE LA MAGDALENA EN EL SECTOR DEL CANAL DE ACCESO AL PUERTO DE BARRANQUILLA PARA EL AÑO 2027",
+    "valor": 88570501050.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA",
+    "duracion": "Mes(es)",
+    "origen_recursos": "Presupuesto de entidad nacional",
+    "unspsc": [
+      "72141206"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": "COTIZACION-CORMAG-01-2026",
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10989157&isFromPublicArea=True&isModal=true&asPopupView=true",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1735226179",
+    "entidad": "EMPRESA DE DESARROLLO URBANO DE MEDELLIN",
+    "nit_entidad": "800223337",
+    "descripcion": "CONSTRUCCION DE OBRAS CIVILES PARA LA REFORMA DEL VELODROMO MARTIN EMILIO COCHISE RODRIGUEZY SU ESPACIO PUBLICO EN EL DISTRITO ESPECIAL DE CIENCIA; TECNOLOGIA E INNOVACION DE MEDELLIN CONSECUTIVO PAA 4159",
+    "valor": 85372516927.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "CONTRATACION REGIMEN ESPECIAL (CON OFERTAS)",
+    "duracion": "360 día(s)",
+    "origen_recursos": null,
+    "unspsc": [
+      "72153900"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": "123"
+  },
+  {
+    "id": "MarketplaceCO1734245813",
+    "entidad": "HOSPITAL MILITAR CENTRAL",
+    "nit_entidad": "830040256",
+    "descripcion": "PAA2026-UCLB-144 - SUMINISTRO DE MATERIALES Y COMPONENTES PARA LA ELABORACION Y ADAPTACION DE DISPOSITIVOS MEDICOS SOBRE MEDIDA TIPO PROTESIS EXTERNA PARA EXTREMIDADES Y ORTESIS ORTOPEDICA; LIGADO AL SOPORTE TECNICO Y ASESORIA PARA USO; ADAPTACION Y MANTENIMIENTO DE LOS ELEMENTOS PARA EL PROGRAMA DE ATENCION DESCENTRALIZADA DEL PACIENTE AMPUTADO DEL HOSPITAL MILITAR CENTRAL VF2027-2030",
+    "valor": 68084499100.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA",
+    "duracion": "Mes(es)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "42321709",
+      "42242000",
+      "42242100",
+      "42242001",
+      "42311505",
+      "13102022"
+    ],
+    "sectores": [
+      {
+        "id": "energia_solar_alumbrado",
+        "name": "Energía Solar & Alumbrado Público"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      },
+      {
+        "id": "horeca_industrial",
+        "name": "HORECA & Maquinaria Gastronómica"
+      },
+      {
+        "id": "salud_insumos",
+        "name": "Salud: Insumos & Equipos Médicos"
+      },
+      {
+        "id": "dotacion_mobiliario",
+        "name": "Dotación, Uniformes & Mobiliario"
+      }
+    ],
+    "proceso_relacionado": "LP-014-2026-HOMIL",
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11098868&isFromPublicArea=True&isModal=true&asPopupView=true",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1725790443",
+    "entidad": "AEROCIVIL",
+    "nit_entidad": "899999059",
+    "descripcion": "66000C2145 REALIZAR LA TERMINACION DE LAS OBRAS DE MEJORAMIENTO DE LA PISTA; CALLES DE RODAJE; CANALES Y ZONAS DE SEGURIDAD DEL AEROPUERTO GERMAN OLANO DE PUERTO CARREÑO; VICHADA (VF)",
+    "valor": 62637719895.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA (OBRA PUBLICA)",
+    "duracion": "720 día(s)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "72101500",
+      "72141000",
+      "72141100",
+      "72141500"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1725790643",
+    "entidad": "AEROCIVIL",
+    "nit_entidad": "899999059",
+    "descripcion": "66000C2081 REALIZAR EL MANTENIMIENTO DE LA INFRAESTRUCTURA AEROPORTUARIA LADO AIRE; INCLUYE SISTEMAS DE AYUDAS VISUALES; SISTEMAS DE DRENAJE Y CERRAMIENTOS; DE LOS AEROPUERTOS NEIVA; PITALITO; IBAGUE; FLANDES; PUERTO ASIS Y FLORENCIA (POR LOTES) VF",
+    "valor": 58869057885.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA (OBRA PUBLICA)",
+    "duracion": "720 día(s)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "72141000",
+      "72141100",
+      "72141500"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1735157909",
+    "entidad": "SECRETARIA DE EDUCACION DEL DISTRITO",
+    "nit_entidad": "8999990619",
+    "descripcion": "7949-2-8 (2026) PRESTAR LOS SERVICIOS DE TELECOMUNICACIONES A LA SECRETARIA DE EDUCACION EN LOS TRES NIVELES INSTITUCIONALES DE ACUERDO CON LA ZONA ADJUDICADA",
+    "valor": 58154380944.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": null,
+    "duracion": "378 día(s)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "81112100",
+      "83112300",
+      "43222600",
+      "43232800",
+      "72151600"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "tecnologia",
+        "name": "Tecnología & Equipos de Cómputo"
+      }
+    ],
+    "proceso_relacionado": "SED-LP- SED-OTIC-073-2026",
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11015254&isFromPublicArea=True&isModal=true&asPopupView=true",
+    "version_paa": "267"
+  },
+  {
+    "id": "MarketplaceCO1725790653",
+    "entidad": "AEROCIVIL",
+    "nit_entidad": "899999059",
+    "descripcion": "66000C2091 REALIZAR EL MANTENIMIENTO DE LA INFRAESTRUCTURA AEROPORTUARIA A CARGO DE LA AEROCIVIL EN EL AEROPUERTO INTERNACIONAL EL DORADO DE BOGOTA (VF)",
+    "valor": 52923262956.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA (OBRA PUBLICA)",
+    "duracion": "720 día(s)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "72141000",
+      "72141100",
+      "72141500"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1734245816",
+    "entidad": "HOSPITAL MILITAR CENTRAL",
+    "nit_entidad": "830040256",
+    "descripcion": "PAA2026-UCLB-184 - SUMINISTRO DE ALIMENTACION PARA PACIENTES HOSPITALIZADOS Y MEDICOS RESIDENTES E INTERNOS DEL HOSPITAL MILITAR CENTRAL VF2027-2030",
+    "valor": 50220549500.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA",
+    "duracion": "Mes(es)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "90101500",
+      "90101600",
+      "90101700"
+    ],
+    "sectores": [
+      {
+        "id": "alimentacion_escolar",
+        "name": "Alimentación Escolar (PAE)"
+      }
+    ],
+    "proceso_relacionado": "LP-015-2026-HOMIL",
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11094362&isFromPublicArea=True&isModal=true&asPopupView=true",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1735883392",
+    "entidad": "Empresa de Servicios Públicos Varios EMSERP",
+    "nit_entidad": "837000228",
+    "descripcion": "EJECUCION DEL PROYECTO DENOMINADO MEJORAMIENTO DEL SERVICIO DE AGUA POTABLE Y SANEAMIENTO BASICO EN EL MUNICIPIO DE PUPIALES; EN LO QUE SE REFIERE A LA REPOSICION DE LA RED DE ACUEDUCTO EN LA CARRERA SEPTIMA SALIDA A CHIRES DEL MUNICIPIO DE PUPIALES  NARIÑO; CONFORME A LAS ESPECIFICACIONES TECNICAS QUE SE ENCUENTRAN DETALLADAS EN LA PROPUESTA PRESENTADA POR EL CONTRATISTA; LA CUAL FORMA PARTE INTEGRAL DEL PRESENTE CONTRATO",
+    "valor": 49637964480.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": null,
+    "duracion": "día(s)",
+    "origen_recursos": "Sistema General de Participaciones",
+    "unspsc": [
+      "72141121"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1727593059",
+    "entidad": "DIRECCION DE IMPUESTOS Y ADUANAS NACIONALES*",
+    "nit_entidad": "800197268",
+    "descripcion": "553-F-100154183-MANTENIMIENTO; SOPORTE Y RENOVACION DE LA PLATAFORMA DE INFRAESTRUCTURA COMPUTACIONAL Y EL LICENCIAMIENTO DE SOFTWARE DE MARCA IBM PARA LA UAE- DIAN",
+    "valor": 47460558775.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "SELECCION ABREVIADA CON SUBASTA INVERSA",
+    "duracion": "1080 día(s)",
+    "origen_recursos": "Presupuesto de entidad nacional",
+    "unspsc": [
+      "81112303",
+      "81112204",
+      "43233415",
+      "43233004",
+      "81112202",
+      "43211502"
+    ],
+    "sectores": [
+      {
+        "id": "tecnologia",
+        "name": "Tecnología & Equipos de Cómputo"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1725790463",
+    "entidad": "AEROCIVIL",
+    "nit_entidad": "899999059",
+    "descripcion": "66000C1943 REALIZAR OBRAS DE CONSTRUCCION DE LA TORRE DE CONTROL (TWR) Y DE LA BASE DE SERVICIOS DE EXTINCION DE INCENDIOS (SEI) DEL AEROPUERTO LA FLORIDA DE TUMACO (VF)",
+    "valor": 44350849556.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA (OBRA PUBLICA)",
+    "duracion": "1380 día(s)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "72121400",
+      "72141000"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1733086399",
+    "entidad": "DEPARTAMENTO DE CORDOBA",
+    "nit_entidad": "800103935",
+    "descripcion": "0582-CONSTRUCCION Y/O MEJORAMIENTO Y/O MANTENIMIENTO DE LA INFRAESTRUCTURA VIAL REGIONAL DEL DEPARTAMENTO DE CORDOBA",
+    "valor": 44000000000.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA (OBRA PUBLICA)",
+    "duracion": "Mes(es)",
+    "origen_recursos": "Recursos de credito",
+    "unspsc": [
+      "72141000",
+      "72141100"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1734246204",
+    "entidad": "HOSPITAL MILITAR CENTRAL",
+    "nit_entidad": "830040256",
+    "descripcion": "PAA2026-UCLB-155 - SUMINISTRO DE REACTIVOS E INSUMOS PARA EL LABORATORIO CLINICO DEL HOSPITAL MILITAR CENTRAL VF2027-2030",
+    "valor": 43416929800.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "SELECCION ABREVIADA CON SUBASTA INVERSA",
+    "duracion": "Mes(es)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "41104014",
+      "41104104",
+      "41104107",
+      "41104110",
+      "41104112",
+      "41104115"
+    ],
+    "sectores": [
+      {
+        "id": "horeca_industrial",
+        "name": "HORECA & Maquinaria Gastronómica"
+      },
+      {
+        "id": "salud_insumos",
+        "name": "Salud: Insumos & Equipos Médicos"
+      }
+    ],
+    "proceso_relacionado": "SI-040-2026-HOMIL",
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11045981&isFromPublicArea=True&isModal=true&asPopupView=true",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1733086355",
+    "entidad": "DEPARTAMENTO DE CORDOBA",
+    "nit_entidad": "800103935",
+    "descripcion": "0695-CONSTRUCCION DE CORREDOR VIAL ESTRATEGICO EN LA SUBREGION DEL SAN JORGE EN EL DEPARTAMENTO DE CORDOBA",
+    "valor": 40000000000.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA (OBRA PUBLICA)",
+    "duracion": "Mes(es)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "72141000",
+      "72141100"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1725509994",
+    "entidad": "ALCALDIA MUNICIPAL DE LA JAGUA DE IBIRICO",
+    "nit_entidad": "800108683",
+    "descripcion": "CONSTRUCCION DE LA INFRAESTRUCTURA FISICA DE LA ESE JORGE ISAAC RINCON TORRES DEL MUNICIPIO DE LA JAGUA DE IBIRICO - CESAR",
+    "valor": 37939959003.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": null,
+    "duracion": "Mes(es)",
+    "origen_recursos": "Regalias",
+    "unspsc": [
+      "72121400",
+      "72121403"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1725790654",
+    "entidad": "AEROCIVIL",
+    "nit_entidad": "899999059",
+    "descripcion": "66100C2092 REALIZAR MANTENIMIENTO PREVENTIVO Y CORRECTIVO PARA LAS MAQUINAS DE BOMBEROS DE GRAN CAPACIDAD Y MENOR CAPACIDAD POR LOTES (VF)",
+    "valor": 36908565245.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "SELECCION ABREVIADA CON SUBASTA INVERSA",
+    "duracion": "1307 día(s)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "78181500",
+      "72154500",
+      "72151800"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1734254363",
+    "entidad": "FONDO UNICO DE TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES",
+    "nit_entidad": "8001316486",
+    "descripcion": "4430012 PRESTAR EL SERVICIO INTEGRAL DE DIAGNOSTICO; ORGANIZACION; DESCRIPCION; DIGITALIZACION INTELIGENTE; ADMINISTRACION; CUSTODIA Y SALVAGUARDA DE LOS ARCHIVOS DEL MINISTERIO/FONDO UNICO TIC Y DEL FONDO DOCUMENTAL PAR TELECOM; E IMPLEMENTAR EL SISTEMA INTELIGENTE DE PRESERVACION; CONOCIMIENTO Y ACCESO AL PATRIMONIO DOCUMENTAL DEL SECTOR TIC; CONFORME CON LOS LINEAMIENTOS DEL ARCHIVO GENERAL DE LA NACION",
+    "valor": 36651604528.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "CONTRATACION DIRECTA (CON OFERTAS)",
+    "duracion": "Mes(es)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "78131800",
+      "78131600",
+      "81112000",
+      "81111500",
+      "81111700",
+      "81111800"
+    ],
+    "sectores": [
+      {
+        "id": "tecnologia",
+        "name": "Tecnología & Equipos de Cómputo"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1734245808",
+    "entidad": "HOSPITAL MILITAR CENTRAL",
+    "nit_entidad": "830040256",
+    "descripcion": "PAA2026-UCLB-119 - SUMINISTRO DE INSUMOS Y/O DISPOSITIVOS MEDICO-QUIRURGICOS REQUERIDOS DE LA SUBDIRECCION MEDICA DEL HOSPITAL MILITAR CENTRAL VF2027-2030",
+    "valor": 36160608867.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA",
+    "duracion": "Mes(es)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "42281501",
+      "42295400",
+      "42295433",
+      "42272500",
+      "42294705",
+      "42221500"
+    ],
+    "sectores": [
+      {
+        "id": "horeca_industrial",
+        "name": "HORECA & Maquinaria Gastronómica"
+      },
+      {
+        "id": "salud_insumos",
+        "name": "Salud: Insumos & Equipos Médicos"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1735406529",
+    "entidad": "EMPRESA NACIONAL ESTATAL DE DESARROLLO TERRITORIAL S.A.S.",
+    "nit_entidad": "901902466",
+    "descripcion": "IMPLEMENTACION DE TECNOLOGIAS DIGITALES PARA APRENDER EN LAS INSTITUCIONES EDUCATIVAS OFICIALES DE LOS MUNICIPIOS DE MARIA LA BAJA; SAN JUAN DE NEPOMUCENO; EL GUAMO; SAN JACINTO; CORDOBA; LOS PALMITOS; OVEJAS; MORROA; COLOSO DE LOS DEPARTAMENTOS DE BOLIVAR; SUCRE",
+    "valor": 34669992738.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": null,
+    "duracion": "Mes(es)",
+    "origen_recursos": "Regalias",
+    "unspsc": [
+      "72141000",
+      "72141100",
+      "72141500",
+      "72152700",
+      "95111500",
+      "95111600"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": "PST-SLC-003-2026",
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11070523&isFromPublicArea=True&isModal=true&asPopupView=true",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1735237592",
+    "entidad": "GOBERNACION DEL CASANARE",
+    "nit_entidad": "892099216",
+    "descripcion": "PRESTAR EL SERVICIO DE ALIMENTACION ESCOLAR DE ACUERDO A LOS LINEAMIENTOS TECNICOS ESTABLECIDOS EN LA RESOLUCION 0003 DE 2026; PARA LOS ESTUDIANTES FOCALIZADOS DE LAS INSTITUCIONES EDUCATIVAS OFICIALES PRIORIZADAS POR EL DEPARTAMENTO DE CASANARE",
+    "valor": 32913245679.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA",
+    "duracion": "232 día(s)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "93131600",
+      "80111600",
+      "78101800",
+      "72102100",
+      "53102700",
+      "47131600"
+    ],
+    "sectores": [
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      },
+      {
+        "id": "vehiculos_maquinaria",
+        "name": "Vehículos & Maquinaria"
+      },
+      {
+        "id": "dotacion_mobiliario",
+        "name": "Dotación, Uniformes & Mobiliario"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1733086397",
+    "entidad": "DEPARTAMENTO DE CORDOBA",
+    "nit_entidad": "800103935",
+    "descripcion": "0580-CONVENIO INTERADMINISTRATIVO CON EL MUNICIPIO DE LORICA PARA EL MEJORAMIENTO DE LA INFRAESTRUCTURA VIAL DEL PASO NACIONAL POR LORICA EN EL DEPARTAMENTO DE CORDOBA Y SU INTERVENTORIA",
+    "valor": 30000000000.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "CONTRATACION DIRECTA (CON OFERTAS)",
+    "duracion": "Mes(es)",
+    "origen_recursos": "Recursos de credito",
+    "unspsc": [
+      "72141000",
+      "72141100"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1735225744",
+    "entidad": "EMPRESA DE DESARROLLO URBANO DE MEDELLIN",
+    "nit_entidad": "800223337",
+    "descripcion": "CONSTRUCCION DE LA IE FE Y ALEGRIA POPULAR NO 1 Y EL ESPACIO PUBLICO ASOCIADO EN EL DISTRITO ESPECIAL DE CIENCIA; TECNOLOGIA E INNOVACION DE MEDELLINCONSECUTIVO PAA 4760",
+    "valor": 28275692808.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "CONTRATACION REGIMEN ESPECIAL (CON OFERTAS)",
+    "duracion": "día(s)",
+    "origen_recursos": null,
+    "unspsc": [
+      "72141100"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": "123"
+  },
+  {
+    "id": "MarketplaceCO1725790656",
+    "entidad": "AEROCIVIL",
+    "nit_entidad": "899999059",
+    "descripcion": "66000C2094 REALIZAR EL MANTENIMIENTO Y CONSERVACION DE LOS SISTEMAS DE AYUDAS VISUALES Y SISTEMAS COMPLEMENTARIOS DEL AEROPUERTO INTERNACIONAL EL DORADO DE BOGOTA (VF)",
+    "valor": 28207945611.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA (OBRA PUBLICA)",
+    "duracion": "720 día(s)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "81101700",
+      "81101600",
+      "39111600",
+      "72151500",
+      "72154100"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "energia_solar_alumbrado",
+        "name": "Energía Solar & Alumbrado Público"
+      },
+      {
+        "id": "interventoria_consultoria",
+        "name": "Interventoría & Consultoría"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1733732399",
+    "entidad": "GOBERNACIÓN DE BOLÍVAR//",
+    "nit_entidad": "890480059",
+    "descripcion": "CONSTRUCCION DE INFRAESTRUCTURA SOCIAL EN LOS MUNICIPIOS DE CALAMAR; CICUCO; SAN JACINTO; SAN JUAN NEPOMUCENO Y SANTA ROSA EN EL DEPARTAMENTO DE BOLIVAR",
+    "valor": 28078618082.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": null,
+    "duracion": "Mes(es)",
+    "origen_recursos": "Recursos de credito",
+    "unspsc": [
+      "72141300",
+      "72153100"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": "LIC-SI-010-2026",
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11090977&isFromPublicArea=True&isModal=true&asPopupView=true",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1733754144",
+    "entidad": "CUNDINAMARCA-ALCALDIA MUNICIPIO MOSQUERA",
+    "nit_entidad": "899999342",
+    "descripcion": "1705ESTUDIOS; DISEÑOS; DEMOLICION Y CONSTRUCCION DEL COMANDO DEPARTAMENTAL DE LA SABANA Y ESTACION DE POLICIA EN EL MUNICIPIO DE MOSQUERA; CUNDINAMARCA",
+    "valor": 27053399558.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA (OBRA PUBLICA)",
+    "duracion": "Mes(es)",
+    "origen_recursos": "Recursos de credito",
+    "unspsc": [
+      "72101500",
+      "72102900",
+      "72103300",
+      "72121400"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1725790451",
+    "entidad": "AEROCIVIL",
+    "nit_entidad": "899999059",
+    "descripcion": "66000C2154 REALIZAR EL MANTENIMIENTO DE LA INFRAESTRUCTURA AEROPORTUARIA LADO AIRE; INCLUYE SISTEMAS DE DRENAJES Y CERRAMIENTOS DEL AEROPUERTO DE BARRANQUILLA; ATLANTICO (VF)",
+    "valor": 26875653819.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA (OBRA PUBLICA)",
+    "duracion": "720 día(s)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "72141500",
+      "72141100",
+      "72141000"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1733086540",
+    "entidad": "DEPARTAMENTO DE CORDOBA",
+    "nit_entidad": "800103935",
+    "descripcion": "0616-MEJORAMIENTO DE LA INFRAESTRUCTURA VIAL URBANA Y RURAL AFECTADA POR EL FRENTE FRIO DE LA VIGENCIA 2026; MEDIANTE LOS ESTUDIOS; DISEÑOS Y EJECUCION DE OBRAS PARA LA RECUPERACION DE LA MOVILIDAD; LA CONECTIVIDAD Y LA TRANSITABILIDAD EN EL DEPARTAMENTO DE CORDOBA",
+    "valor": 25000000000.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA (OBRA PUBLICA)",
+    "duracion": "Mes(es)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "72141000",
+      "72141100"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1725790478",
+    "entidad": "AEROCIVIL",
+    "nit_entidad": "899999059",
+    "descripcion": "66000C2128 REALIZAR EL MANTENIMIENTO DE LA INFRAESTRUCTURA FISICA LADO AIRE; INCLUYENDO AYUDAS VISUALES DEL AEROPUERTO EL ALCARAVAN DE YOPAL; CASANARE (VF)",
+    "valor": 24117093820.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA (OBRA PUBLICA)",
+    "duracion": "720 día(s)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "72141500",
+      "72141000",
+      "72141100"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1735780507",
+    "entidad": "MUNICIPIO DE NEIVA",
+    "nit_entidad": "891180009",
+    "descripcion": "SERVICIO DE ALIMENTACION ESCOLAR INTEGRAL QUE BRINDE UN COMPLEMENTO ALIEMTARIO A LOS NIÑOS; NIÑAS; ADOLESCENTES Y JOVENES FOCALIZADOS Y REGISTRADOS EN EL SISTEM DE MATRICULA SIMAT PARA EL AREA URBANA Y RURAL DEL MPIO DE NEIVA 2027 - VIGENCIA FUTURA ACUERDO 024 DE 2026",
+    "valor": 23352038976.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": null,
+    "duracion": "115 día(s)",
+    "origen_recursos": "Presupuesto de entidad nacional",
+    "unspsc": [
+      "48101600",
+      "50192700",
+      "50193000",
+      "78131800",
+      "85151500",
+      "85151600"
+    ],
+    "sectores": [
+      {
+        "id": "horeca_industrial",
+        "name": "HORECA & Maquinaria Gastronómica"
+      },
+      {
+        "id": "alimentacion_escolar",
+        "name": "Alimentación Escolar (PAE)"
+      },
+      {
+        "id": "eventos_logistica_viveres",
+        "name": "Eventos, Logística & Víveres"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": "234"
+  },
+  {
+    "id": "MarketplaceCO1722814083",
+    "entidad": "INVIAS",
+    "nit_entidad": "800215807",
+    "descripcion": "GESTION VIAL INTEGRAL DEL CORREDOR BRICEÑO - TUNJA - SOGAMOSO: RUTA 55; TRAMO 5501; SECTOR VILLAPINZON - PEAJE ALBARRACIN - VENTAQUEMADA - INICIO VARIANTE TUNJA (SECTOR 1); RUTA 62; TRAMO 62BY05; SECTOR LA Y - TIBASOSA - SOGAMOSO Y RUTA 62; TRAMO 6210; SECTOR LA Y - NOBSA - SOGAMOSO (SECTOR 2); EN LOS DEPARTAMENTOS DE CUNDINAMARCA Y BOYACA",
+    "valor": 23321464723.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA (OBRA PUBLICA)",
+    "duracion": "Mes(es)",
+    "origen_recursos": null,
+    "unspsc": [
+      "72103300",
+      "72141000",
+      "72141100",
+      "72141600"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": "LP-DEO-SGI-034-2026",
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11005230&isFromPublicArea=True&isModal=true&asPopupView=true",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1725790557",
+    "entidad": "AEROCIVIL",
+    "nit_entidad": "899999059",
+    "descripcion": "66000C1225 REALIZAR EL MANTENIMIENTO Y MEJORAMIENTO DE LA INFRAESTRUCTURA AEROPORTUARIA LADO TIERRA; DE LOS AEROPUERTOS GUSTAVO ROJAS PINILLA DE SAN ANDRES Y EL EMBRUJO DE PROVIDENCIA (VF)",
+    "valor": 22996932485.0,
+    "mes_esperado": 11,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA (OBRA PUBLICA)",
+    "duracion": "720 día(s)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "72101500",
+      "72102900",
+      "72121400",
+      "72151500",
+      "72154100"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1733461104",
+    "entidad": "ALCALDIA MUNICIPAL DE CHIA",
+    "nit_entidad": "899999172",
+    "descripcion": "REALIZAR LA CONSTRUCCION Y EL MEJORAMIENTO DE LOS TRAMOS VIALES URBANOS Y RURALES DEL MUNICIPIO DE CHIA INCLUIDAS LAS ACTIVIDADES Y OBRAS COMPLEMENTARIAS REQUERIDAS PARA SU FUNCIONAMIENTO",
+    "valor": 260000000000.0,
+    "mes_esperado": 12,
+    "anio": 2026,
+    "modalidad": null,
+    "duracion": "Mes(es)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "72141000",
+      "72141500",
+      "72141600"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1681733570",
+    "entidad": "Rama Judicial  Dirección Ejecutiva de Administración Judicial",
+    "nit_entidad": "800093816",
+    "descripcion": "GPEI-001GESTIONAR LA ADQUISICION DE INMUEBLES PARA LA RAMA JUDICIAL",
+    "valor": 145086727585.0,
+    "mes_esperado": 12,
+    "anio": 2026,
+    "modalidad": "CONTRATACION DIRECTA",
+    "duracion": "día(s)",
+    "origen_recursos": "Presupuesto de entidad nacional",
+    "unspsc": [
+      "72121100",
+      "72121400",
+      "81101500",
+      "80101600",
+      "80131500",
+      "80111700"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      },
+      {
+        "id": "interventoria_consultoria",
+        "name": "Interventoría & Consultoría"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1731786807",
+    "entidad": "HOSPITAL DEPARTAMENTAL DE VILLAVICENCIO ESE",
+    "nit_entidad": "892000501",
+    "descripcion": "CONTRATACION DE SERVICIOS PARA LA COMUNIDAD ; SOCIALES Y PERSONALES- CPS ASISTENCIAL",
+    "valor": 128500319840.0,
+    "mes_esperado": 12,
+    "anio": 2026,
+    "modalidad": "CONTRATACION REGIMEN ESPECIAL",
+    "duracion": "Mes(es)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "76111500",
+      "80111600",
+      "81101500",
+      "84111500",
+      "84111600",
+      "84121700"
+    ],
+    "sectores": [
+      {
+        "id": "interventoria_consultoria",
+        "name": "Interventoría & Consultoría"
+      }
+    ],
+    "proceso_relacionado": "CPS 352-2026",
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10266186&isFromPublicArea=True&isModal=true&asPopupView=true",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1657469570",
+    "entidad": "ESE HOSPITAL MANUEL URIBE ANGEL",
+    "nit_entidad": "890906347",
+    "descripcion": "PRODUCTOS FARMACEUTICOS",
+    "valor": 61528718700.0,
+    "mes_esperado": 12,
+    "anio": 2026,
+    "modalidad": null,
+    "duracion": "Mes(es)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "51101500",
+      "51101600",
+      "51101700",
+      "51101800",
+      "51101900",
+      "51102000"
+    ],
+    "sectores": [
+      {
+        "id": "salud_insumos",
+        "name": "Salud: Insumos & Equipos Médicos"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1733765114",
+    "entidad": "GOBERNACION DEL MAGDALENA",
+    "nit_entidad": "800103920",
+    "descripcion": "MEJORAMIENTO DE LA VIA QUE COMUNICA EL MUNICIPIO DE PIVIJAY CON EL CORREGIMIENTO DE CANOAS EN EL DEPARTAMENTO DEL MAGDALENA",
+    "valor": 55499956471.0,
+    "mes_esperado": 12,
+    "anio": 2026,
+    "modalidad": null,
+    "duracion": "Mes(es)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "72141000",
+      "72141100"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": "LP-018-2026",
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1725790344",
+    "entidad": "AEROCIVIL",
+    "nit_entidad": "899999059",
+    "descripcion": "68000C1828 PRESTAR EL SERVICIO INTEGRAL DE CONECTIVIDAD SEGURA A NIVEL NACIONAL PARA LOS AEROPUERTOS Y SEDES DE LA ENTIDAD; MEDIANTE UNA RED DEFINIDA POR SOFTWARE (SD-WAN) Y SUS SERVICIOS CONEXOS VF",
+    "valor": 43867271515.0,
+    "mes_esperado": 12,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA",
+    "duracion": "1309 día(s)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "81101500",
+      "81101600",
+      "81111500",
+      "81111600",
+      "43221700",
+      "43222600"
+    ],
+    "sectores": [
+      {
+        "id": "tecnologia",
+        "name": "Tecnología & Equipos de Cómputo"
+      },
+      {
+        "id": "interventoria_consultoria",
+        "name": "Interventoría & Consultoría"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1734979309",
+    "entidad": "SISTEMA ESTRATEGICO DE TRANSPORTE PUBLICO DE IBAGUE S.A.S",
+    "nit_entidad": "901287299",
+    "descripcion": "SUMINISTRO; INSTALACION Y PUESTA EN MARCHA DEL SISTEMA DE RECAUDO CENTRALIZADO EN EL MARCO DEL SISTEMA ESTRATEGICO DE TRANSPORTE PUBLICO DE IBAGUE SAS",
+    "valor": 43424128887.0,
+    "mes_esperado": 12,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA",
+    "duracion": "270 día(s)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "72103300",
+      "72141000",
+      "72141100",
+      "81101500",
+      "81102200"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      },
+      {
+        "id": "interventoria_consultoria",
+        "name": "Interventoría & Consultoría"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1734586315",
+    "entidad": "GOBERNACIÓN DEL CAUCA",
+    "nit_entidad": "891580016",
+    "descripcion": "EL CONTRATISTA SE COMPROMETE CON EL DEPARTAMENTO DEL CAUCA - SECRETARIA DE EDUCACION Y CULTURA A PRESTAR EL SERVICIO DE ALIMENTACION ESCOLAR; PARA LOS NIÑOS; NIÑAS; ADOLESCENTES Y JOVENES REGISTRADOS; PRIORIZADOS Y FOCALIZADOS EN LA MATIRCULA SIMAT DE LAS INSTITUCIONES Y CENTROS EDUCATIVOS UBICADOS EN TERRITORIOS INDIGENAS O QUE ATIENDAN POBLACION MAYORITARIAMENTE INDIGENA DE LA ENTIDAD TERRITORIAL CERTIFICADA EN EDUCACION DEL DEPARTAMENTO DEL CAUCA; DE CONFORMIDAD CON LOS ESTUDIOS PREVIOS ELABORADOS POR LA ENTIDAD; LAS CONDICIONES TECNICAS; TIPOS Y MODALIDADES DEFINIDOS EN LOS LINEAMIENTOS TECNICOS ADMINISTRATIVOS PAE Y LAS RESOLUCIONES QUE LOS MODIFIQUEN; SUS DOCUMENTOS ANEXOS COMPLEMENTARIOS",
+    "valor": 36427603444.0,
+    "mes_esperado": 12,
+    "anio": 2026,
+    "modalidad": "CONTRATACION DIRECTA",
+    "duracion": "107 día(s)",
+    "origen_recursos": "Presupuesto de entidad nacional",
+    "unspsc": [
+      "50193000",
+      "50193001",
+      "50193002",
+      "85151501",
+      "85151605",
+      "90101501"
+    ],
+    "sectores": [
+      {
+        "id": "alimentacion_escolar",
+        "name": "Alimentación Escolar (PAE)"
+      },
+      {
+        "id": "eventos_logistica_viveres",
+        "name": "Eventos, Logística & Víveres"
+      }
+    ],
+    "proceso_relacionado": "DC-SED-CD-224-2026",
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.9876781&isFromPublicArea=True&isModal=true&asPopupView=true",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1725790610",
+    "entidad": "AEROCIVIL",
+    "nit_entidad": "899999059",
+    "descripcion": "68000C2158 PRESTAR LOS SERVICIOS INTEGRADOS PARA LA GESTION; SOPORTE; MANTENIMIENTO Y OPERACION DE LA MESA DE SERVICIOS DE LA AERONAUTICA CIVIL (VF)",
+    "valor": 33967705416.0,
+    "mes_esperado": 12,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA",
+    "duracion": "1307 día(s)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "43231501",
+      "81111800",
+      "81112200",
+      "82121500",
+      "81112300"
+    ],
+    "sectores": [
+      {
+        "id": "tecnologia",
+        "name": "Tecnología & Equipos de Cómputo"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1734979305",
+    "entidad": "SISTEMA ESTRATEGICO DE TRANSPORTE PUBLICO DE IBAGUE S.A.S",
+    "nit_entidad": "901287299",
+    "descripcion": "OBRA AVENIDA FERROCARRIL",
+    "valor": 32034821875.0,
+    "mes_esperado": 12,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA (OBRA PUBLICA)",
+    "duracion": "180 día(s)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "72103300",
+      "72141000",
+      "72141100",
+      "81101500",
+      "81102200"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      },
+      {
+        "id": "interventoria_consultoria",
+        "name": "Interventoría & Consultoría"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1730751779",
+    "entidad": "UNIVERSIDAD DE LA GUAJIRA",
+    "nit_entidad": "892115029",
+    "descripcion": "CONSTRUCCION DE INFRAESTRUCTURA FISICA Y ESPACIOS COMPLEMENTARIOS EN LA UNIVERSIDAD DE LA GUAJIRA; SEDE RIOHACHA; DEPARTAMENTO DE LA GUAJIRA",
+    "valor": 28960509071.0,
+    "mes_esperado": 12,
+    "anio": 2026,
+    "modalidad": null,
+    "duracion": "Mes(es)",
+    "origen_recursos": null,
+    "unspsc": [
+      "72102900",
+      "72103300",
+      "72121507",
+      "95111617",
+      "95121503",
+      "95122302"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": "UG-OC-011-2026",
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10909770&isFromPublicArea=True&isModal=true&asPopupView=true",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1732251546",
+    "entidad": "HOSPITAL REGIONAL DE LA ORINOQUIA EMPRESA SOCIAL DEL ESTADO",
+    "nit_entidad": "891855029",
+    "descripcion": "PRESTAR SERVICIOS RELACIONADOS A LA DISPENSACION DE MEDICAMENTOS Y DISPOSITIVOS MEDICOS; ASI COMO TAMBIEN; LA REALIZACION DE ACTIVIDADES Y PROGRAMAS ESPECIALES TALES COMO: LA ATENCION FARMACEUTICA; SEGUIMIENTO FARMACOTERAPEUTICO; FARMACOVIGILANCIA; TECNOVIGILANCIA Y DEMAS PROCESOS INHERENTES A LA OPERATIVIDAD DEL SERVICIO PARA LA ATENCION DE LOS PACIENTES DEL HOSPITAL REGIONAL DE LA ORINOQUIA ESE",
+    "valor": 28800000000.0,
+    "mes_esperado": 12,
+    "anio": 2026,
+    "modalidad": null,
+    "duracion": "Mes(es)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "51101500",
+      "51101600",
+      "51101700",
+      "51101800",
+      "51101900",
+      "51102000"
+    ],
+    "sectores": [
+      {
+        "id": "salud_insumos",
+        "name": "Salud: Insumos & Equipos Médicos"
+      }
+    ],
+    "proceso_relacionado": "CONTRATACIÒN DIRECTA No. 022-2026",
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10080662&isFromPublicArea=True&isModal=true&asPopupView=true",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1735390745",
+    "entidad": "SECRETARIA DISTRITAL DE SEGURIDAD CONVIVENCIA Y JUSTICIA",
+    "nit_entidad": "899999061",
+    "descripcion": "11295-ADQUISICION DE VEHICULOS",
+    "valor": 28375000000.0,
+    "mes_esperado": 12,
+    "anio": 2026,
+    "modalidad": "SELECCION ABREVIADA CON SUBASTA INVERSA",
+    "duracion": "Mes(es)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "25101801"
+    ],
+    "sectores": [
+      {
+        "id": "vehiculos_maquinaria",
+        "name": "Vehículos & Maquinaria"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1733782495",
+    "entidad": "GOBERNACION DEL MAGDALENA",
+    "nit_entidad": "800103920",
+    "descripcion": "MEJORAMIENTO DE LA VIA QUE COMUNICA AL MUNICIPIO DE SAN SEBASTIAN CON EL LIMITE CON EL CESAR EN EL DEPARTAMENTO DEL MAGDALENA",
+    "valor": 27815590700.0,
+    "mes_esperado": 12,
+    "anio": 2026,
+    "modalidad": null,
+    "duracion": "Mes(es)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "72121000",
+      "72121100"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": "LP-018-2026",
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1725790418",
+    "entidad": "AEROCIVIL",
+    "nit_entidad": "899999059",
+    "descripcion": "67000C1513 REALIZAR EL MANTENIMIENTO PREVENTIVO CORRECTIVO; SOPORTE TECNICO Y ACTUALIZACION DE TODOS LOS SISTEMAS; SUBSISTEMAS INSTALACIONES DEL SIMULADOR THALES DEL CEA VF",
+    "valor": 27356022574.0,
+    "mes_esperado": 12,
+    "anio": 2026,
+    "modalidad": "CONTRATACION DIRECTA (CON OFERTAS)",
+    "duracion": "1290 día(s)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "72151500",
+      "81111800",
+      "81111900",
+      "81112200",
+      "81112300"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1660054798",
+    "entidad": "UNIMAGDALENA",
+    "nit_entidad": "891780111",
+    "descripcion": "PLAN DE ACCION - EDIFICIO DE AULAS RIO MAGDALENA",
+    "valor": 26651452627.0,
+    "mes_esperado": 12,
+    "anio": 2026,
+    "modalidad": null,
+    "duracion": "Mes(es)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "39121900",
+      "39122000",
+      "39122100",
+      "40101700",
+      "72121400"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "energia_solar_alumbrado",
+        "name": "Energía Solar & Alumbrado Público"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1734979310",
+    "entidad": "SISTEMA ESTRATEGICO DE TRANSPORTE PUBLICO DE IBAGUE S.A.S",
+    "nit_entidad": "901287299",
+    "descripcion": "SUMINISTRO; INSTALACION Y PUESTA EN MARCHA DEL SISTEMA DE GESTION Y CONTROL DE FLOTA Y DEL SISTEMA DE INFORMACION AL USUARIO EN EL MARCO DEL SISTEMA ESTRATEGICO DE TRANSPORTE PUBLICO DE IBAGUE SAS",
+    "valor": 25175871113.0,
+    "mes_esperado": 12,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA",
+    "duracion": "270 día(s)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "72103300",
+      "72141000",
+      "72141100",
+      "81101500",
+      "81102200"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      },
+      {
+        "id": "interventoria_consultoria",
+        "name": "Interventoría & Consultoría"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1725790415",
+    "entidad": "AEROCIVIL",
+    "nit_entidad": "899999059",
+    "descripcion": "67000C1276 REALIZAR MANENIMIENTO PREVENTIVO ; CORRECTIVO Y SOPORTE TECNICO DE TODOS LOS SISTEMAS; SUSISTEMAS E INSTALACIONES DEL SIMULADOR INDRA DEL CEA TRAMITA VIGENCIAS FUTURAS",
+    "valor": 25100000000.0,
+    "mes_esperado": 12,
+    "anio": 2026,
+    "modalidad": "CONTRATACION DIRECTA",
+    "duracion": "1290 día(s)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "72151500",
+      "81111800",
+      "81111900",
+      "81112200",
+      "81112300"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1725790554",
+    "entidad": "AEROCIVIL",
+    "nit_entidad": "899999059",
+    "descripcion": "66000C1204 REALIZAR EL MANTENIMIENTO DE LA INFRAESTRUCTURA LADO AIRE DEL AEROPUERTO INTERNACIONAL ALFONSO BONILLA ARAGON QUE SIRVE A LA CIUDAD DE CALI (VF)",
+    "valor": 24806010263.0,
+    "mes_esperado": 12,
+    "anio": 2026,
+    "modalidad": "LICITACION PUBLICA (OBRA PUBLICA)",
+    "duracion": "540 día(s)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "72141100",
+      "72101500",
+      "72102900",
+      "72103300"
+    ],
+    "sectores": [
+      {
+        "id": "obra_civil_general",
+        "name": "Construcción & Obra Civil General"
+      },
+      {
+        "id": "acero_metalmecanica",
+        "name": "Acero & Metalmecánica"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1725790471",
+    "entidad": "AEROCIVIL",
+    "nit_entidad": "899999059",
+    "descripcion": "65000C1818 REALIZAR EL UPGRADE DE LOS RADARES METEOROLOGICOS WRM 200 DE LOS AEROPUERTOS DE SAN ANDRES; COROZAL Y LA ESTACION AERONAUTICA DE TABLAZO EN SUBACHOQUE - VF",
+    "valor": 24067282374.0,
+    "mes_esperado": 12,
+    "anio": 2026,
+    "modalidad": "CONTRATACION DIRECTA",
+    "duracion": "300 día(s)",
+    "origen_recursos": "Recursos de credito",
+    "unspsc": [
+      "41114400",
+      "43231500",
+      "81111500",
+      "81151500",
+      "46171600"
+    ],
+    "sectores": [
+      {
+        "id": "tecnologia",
+        "name": "Tecnología & Equipos de Cómputo"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  },
+  {
+    "id": "MarketplaceCO1732874236",
+    "entidad": "ADMINISTRADORA COLOMBIANA DE PENSIONES COLPENSIONES",
+    "nit_entidad": "900336004",
+    "descripcion": "141 CONTRATAR EL SERVICIO FORTALECIMIENTO DEL ERP",
+    "valor": 23351492154.0,
+    "mes_esperado": 12,
+    "anio": 2026,
+    "modalidad": "CONTRATACION REGIMEN ESPECIAL (CON OFERTAS)",
+    "duracion": "Mes(es)",
+    "origen_recursos": "Recursos propios",
+    "unspsc": [
+      "43231600"
+    ],
+    "sectores": [
+      {
+        "id": "tecnologia",
+        "name": "Tecnología & Equipos de Cómputo"
+      }
+    ],
+    "proceso_relacionado": null,
+    "url_proceso": "https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-CO&Page=login&Country=CO&SkinName=CCE",
+    "version_paa": null
+  }
+]
