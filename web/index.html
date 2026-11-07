@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SECOP II - Observatorio de Oportunidades & Leads B2B</title>
+  <meta name="description" content="Motor inteligente de extracción, filtrado de ruido y enriquecimiento de contratación pública colombiana (SECOP II) para licitantes y proveedores B2B.">
+  <!-- Vista previa al compartir un enlace (WhatsApp, Slack…): es la misma para todas las fichas,
+       porque el sitio es estático y el enlace a una ficha va en el hash (#op=<id>). -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Oportunidad de contratación pública · SECOP II">
+  <meta property="og:description" content="Te compartieron una oportunidad de SECOP II: ábrela para ver valor, fechas, entidad y próximo paso.">
+  <meta property="og:locale" content="es_CO">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg?v=de623338bf">
+  <!-- Antes del CSS: pone el tema en <html> antes del primer pintado, para que no parpadee. -->
+  <script src="theme.js?v=f2cc244762"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css?v=59bba9dc2c">
+</head>
+<body>
+
+  <!-- Sticky Navbar -->
+  <header class="navbar">
+    <div class="brand">
+      <div class="brand-icon">⚡</div>
+      <div>
+        <h1 class="brand-title">SECOP <span>Engine</span></h1>
+      </div>
+      <span class="brand-badge">Live SECOP II</span>
+    </div>
+
+    <div class="nav-actions">
+      <label class="theme-picker" title="Tema de la página">
+        <span class="visually-hidden">Tema</span>
+        <select id="themeSelect" class="filter-select theme-select" aria-label="Tema"></select>
+      </label>
+      <button class="btn btn-outline" id="btnExportCsv" aria-label="Exportar CSV" title="Exportar CSV">
+        <span aria-hidden="true">📥</span> <span class="btn-label">Exportar CSV</span>
+      </button>
+      <button class="sync-pill" id="syncStatus" type="button" title="Estado de la sincronización con SECOP II">
+        <span class="sync-dot"></span><span id="syncStatusText">SECOP II</span>
+      </button>
+      <div id="accountArea" class="account-area"></div>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- Perfil de Oportunidades: onboarding / resumen del perfil -->
+    <section class="profile-hero" id="profileHero" aria-label="Tu perfil de oportunidades"></section>
+
+    <!-- Top KPIs -->
+    <section class="kpi-grid">
+      <div class="kpi-card kpi-emerald">
+        <div class="kpi-title">Pipeline Analizado</div>
+        <div class="kpi-value" id="kpiTotalPipeline">Calculando...</div>
+        <div class="kpi-sub">Total en contratos calificados (COP)</div>
+      </div>
+      <div class="kpi-card kpi-cyan">
+        <div class="kpi-title">Oportunidades Curadas</div>
+        <div class="kpi-value" id="kpiTotalOpps">—</div>
+        <div class="kpi-sub">Filtradas sin OPS ni prestación de servicios</div>
+      </div>
+      <div class="kpi-card kpi-amber">
+        <div class="kpi-title" id="kpiSectorTitle">Sectores Clave</div>
+        <div class="kpi-value" id="kpiSectorValue">—</div>
+        <div class="kpi-sub" id="kpiSectorSub"></div>
+      </div>
+      <div class="kpi-card kpi-violet">
+        <div class="kpi-title">Score de Calidad Promedio</div>
+        <div class="kpi-value" id="kpiAvgScore">—</div>
+        <div class="kpi-sub">Algoritmo de pertinencia comercial</div>
+      </div>
+    </section>
+
+    <!-- Navigation Tabs -->
+    <nav class="view-tabs" aria-label="Vistas principales">
+      <button class="view-tab" data-tab="parati" id="tabParaTi">
+        <span>✨ Para Ti</span>
+        <span class="badge-count" id="countParaTi">0</span>
+      </button>
+      <button class="view-tab active" data-tab="proveedores" id="tabProveedores">
+        <span>🎯 Radar B2B para Proveedores</span>
+        <span class="badge-count" id="countProveedores">0</span>
+      </button>
+      <button class="view-tab" data-tab="observatorio" id="tabObservatorio">
+        <span>🔭 Observatorio de Licitaciones</span>
+        <span class="badge-count" id="countObservatorio">0</span>
+      </button>
+      <button class="view-tab" data-tab="paa" id="tabPaa" title="Compras planeadas en el Plan Anual de Adquisiciones: alertas tempranas antes de que exista el proceso">
+        <span>🗓️ Planeadas (PAA)</span>
+        <span class="badge-count" id="countPaa">0</span>
+      </button>
+      <button class="view-tab" data-tab="crm" id="tabCrm">
+        <span>📋 Pipeline Comercial / CRM</span>
+        <span class="badge-count" id="countCrm">0</span>
+        <span class="badge-alert" id="crmChanges" hidden></span>
+      </button>
+      <!-- Oculta por defecto: se muestra con el interruptor "Ver lo que no se muestra". -->
+      <button class="view-tab view-tab-hidden" data-tab="hidden" id="tabHidden" hidden title="Procesos que pasan el filtro de ruido pero no están en el tablero: sin clasificar o fuera del corte">
+        <span>🔎 Fuera del tablero</span>
+        <span class="badge-count" id="countHidden">…</span>
+      </button>
+    </nav>
+
+    <!-- Search and Filters Bar -->
+    <section class="filter-bar" aria-label="Filtros">
+      <div class="search-input-group">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="searchInput" class="input-search" placeholder="Buscar por palabra clave, entidad, contratista o NIT...">
+      </div>
+
+      <select id="sectorSelect" class="filter-select" aria-label="Filtrar por sector">
+        <option value="todos">Todos los Sectores</option>
+        <!-- Las opciones se generan desde taxonomy.js (config/taxonomy.json) -->
+      </select>
+
+      <select id="stageSelect" class="filter-select" aria-label="Filtrar por etapa">
+        <option value="todos">Todas las Etapas</option>
+        <option value="adjudicado">Adjudicado (Ganador Conocido)</option>
+        <option value="ofertas">En Ofertas / Abierto</option>
+        <option value="borrador">Borrador de Pliegos</option>
+      </select>
+
+      <select id="modalitySelect" class="filter-select" aria-label="Filtrar por modalidad de contratación">
+        <option value="todas">Todas las modalidades</option>
+        <!-- Las opciones se generan desde DashboardEngine.MODALITIES, con conteo por pestaña -->
+      </select>
+
+      <select id="ageSelect" class="filter-select" aria-label="Filtrar por fecha">
+        <option value="todas">Cualquier fecha</option>
+        <!-- Las opciones cambian con la pestaña: adjudicado, publicado o publicación esperada -->
+      </select>
+
+      <select id="budgetSelect" class="filter-select" aria-label="Filtrar por presupuesto">
+        <option value="0">Cualquier Presupuesto</option>
+        <option value="200000000">> $200 Millones COP</option>
+        <option value="500000000">> $500 Millones COP</option>
+        <option value="1000000000">> $1,000 Millones COP</option>
+        <option value="5000000000">> $5,000 Millones COP</option>
+      </select>
+
+      <select id="departmentSelect" class="filter-select" aria-label="Filtrar por departamento">
+        <option value="todos">Todos los Departamentos</option>
+      </select>
+
+      <select id="sortSelect" class="filter-select" aria-label="Ordenar">
+        <option value="relevancia">Orden: Relevancia</option>
+        <option value="cierre">Cierre más próximo</option>
+        <option value="recientes">Más recientes</option>
+        <option value="valor">Mayor valor</option>
+      </select>
+
+      <!-- Filtros propios de la vista "Fuera del tablero" -->
+      <div class="hidden-controls" id="hiddenControls" hidden>
+        <select id="hiddenReasonSelect" class="filter-select" aria-label="Filtrar por motivo">
+          <option value="todos">Todo lo que no se muestra</option>
+          <option value="sin_sector">Sin clasificar (ningún sector coincide)</option>
+          <option value="fuera_de_corte">Clasificadas fuera del corte</option>
+          <option value="convenio">Convenios abiertos con entidades sin ánimo de lucro</option>
+        </select>
+        <select id="hiddenFamilySelect" class="filter-select" aria-label="Filtrar por familia UNSPSC">
+          <option value="todas">Todas las familias UNSPSC</option>
+        </select>
+      </div>
+    </section>
+
+    <!-- Results Header -->
+    <div class="results-header">
+      <div class="results-count" id="resultsCount"></div>
+      <div class="results-actions">
+        <label class="toggle-hidden" title="Muestra una pestaña con los procesos que pasan el filtro de ruido pero no están en el tablero">
+          <input type="checkbox" id="toggleHidden">
+          <span>Ver lo que no se muestra</span>
+        </label>
+        <button class="btn btn-outline btn-compact" id="btnBadgeGuide">
+          ℹ️ Guía de badges
+        </button>
+        <button class="btn btn-outline btn-compact" id="btnResetFilters">
+          Limpiar filtros
+        </button>
+      </div>
+    </div>
+
+    <!-- Cards Grid (Default Views: Proveedores & Observatorio) -->
+    <section class="cards-grid" id="cardsGrid">
+      <!-- Dynamic Javascript Rendering -->
+    </section>
+
+    <!-- CRM Kanban View (Visible when CRM tab active) -->
+    <section class="crm-kanban" id="crmKanban">
+      <div class="kanban-column" data-status="nuevo">
+        <div class="kanban-header">
+          <div class="kanban-title">📥 Leads Nuevos</div>
+          <span class="badge-count" id="countColNuevo">0</span>
+        </div>
+        <div class="kanban-cards" id="kanbanNuevo"></div>
+      </div>
+
+      <div class="kanban-column" data-status="contactado">
+        <div class="kanban-header">
+          <div class="kanban-title">📞 Contactados / En Outreach</div>
+          <span class="badge-count" id="countColContactado">0</span>
+        </div>
+        <div class="kanban-cards" id="kanbanContactado"></div>
+      </div>
+
+      <div class="kanban-column" data-status="negociacion">
+        <div class="kanban-header">
+          <div class="kanban-title">💼 En Cotización / Alianza</div>
+          <span class="badge-count" id="countColNegociacion">0</span>
+        </div>
+        <div class="kanban-cards" id="kanbanNegociacion"></div>
+      </div>
+
+      <div class="kanban-column" data-status="ganado">
+        <div class="kanban-header">
+          <div class="kanban-title">🏆 Ganado / Cerrado</div>
+          <span class="badge-count" id="countColGanado">0</span>
+        </div>
+        <div class="kanban-cards" id="kanbanGanado"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <button type="button" class="footer-link" id="termsLink">Términos de uso y licencias</button>
+  </footer>
+
+  <!-- Detail & Pitch Generator Modal -->
+  <div class="modal-overlay" id="detailModal" role="dialog" aria-modal="true" aria-label="Detalle de la oportunidad">
+    <div class="modal-content">
+      <button class="modal-expand" id="modalExpand" aria-pressed="false" aria-label="Pantalla completa" title="Pantalla completa">⤢</button>
+      <button class="modal-close" id="modalClose" aria-label="Cerrar">&times;</button>
+      <div id="modalBody">
+        <!-- Injected via app.js -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Perfil: onboarding, perfil de oportunidades e inicio de sesión -->
+  <div class="modal-overlay" id="profileModal" role="dialog" aria-modal="true" aria-label="Perfil de oportunidades">
+    <div class="modal-content modal-wide">
+      <button class="modal-close" id="profileModalClose" aria-label="Cerrar">&times;</button>
+      <div id="profileModalBody"></div>
+    </div>
+  </div>
+
+  <!-- Toast Notification Container -->
+  <div class="toast-container" id="toastContainer"></div>
+
+  <!-- Scripts -->
+  <script src="config.js?v=291ba8a898"></script>
+  <script src="data.js?v=20260928_05"></script>
+  <script src="taxonomy.js?v=20260928_05"></script>
+  <script src="unspsc.js?v=47dd6acaaa"></script>
+  <script src="profile-engine.js?v=36bce720b5"></script>
+  <script src="dashboard-engine.js?v=e7e3941d8d"></script>
+  <script src="secop-live.js?v=9d06d92f6f"></script>
+  <script src="auth.js?v=6563e09d22"></script>
+  <script src="app.js?v=8bfac042f9"></script>
+  <script src="profile.js?v=4e784fb7f7"></script>
+</body>
+</html>
