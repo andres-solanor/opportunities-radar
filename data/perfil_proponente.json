@@ -1,0 +1,773 @@
+{
+  "dataset": "jbjy-vk9h",
+  "desde": "2025-11-13",
+  "valor_min": 50000000,
+  "tipos_contrato": [
+    "Obra",
+    "Suministros",
+    "Compraventa",
+    "Interventoría",
+    "Consultoría"
+  ],
+  "modalidades": [
+    {
+      "modalidad": "Selección abreviada subasta inversa",
+      "persona_natural": 866,
+      "juridica": 4973,
+      "sin_dato": 166,
+      "valor": 4664660416896.251,
+      "top": [
+        {
+          "nombre": "Deicy Bravo Jojoa",
+          "contratos": 56,
+          "valor": 25671277615.31,
+          "persona_natural": true
+        },
+        {
+          "nombre": "GESCOM SAS",
+          "contratos": 38,
+          "valor": 6528792588.16,
+          "persona_natural": false
+        },
+        {
+          "nombre": "ARHO SOLUCIONES S.A.S",
+          "contratos": 27,
+          "valor": 14324045326.41,
+          "persona_natural": false
+        },
+        {
+          "nombre": "GLOBAL TECHNOLOGY SERVICES GTS SA",
+          "contratos": 26,
+          "valor": 45909637493.05,
+          "persona_natural": false
+        },
+        {
+          "nombre": "DIANA GIOVANNA YEPES RUBIO",
+          "contratos": 25,
+          "valor": 20440746081.75,
+          "persona_natural": true
+        },
+        {
+          "nombre": "CEMINSUMOS SAS",
+          "contratos": 24,
+          "valor": 9813604493.28,
+          "persona_natural": false
+        },
+        {
+          "nombre": "Intercomercial Medica",
+          "contratos": 24,
+          "valor": 9206453169.87,
+          "persona_natural": false
+        },
+        {
+          "nombre": "Avántika Colombia S.A.S",
+          "contratos": 21,
+          "valor": 18163921774.79,
+          "persona_natural": false
+        },
+        {
+          "nombre": "MUNDIAL DE SUMINISTROS Y CONTRATOS S.A.S",
+          "contratos": 21,
+          "valor": 7880210384.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "FANALCA S.A.S.",
+          "contratos": 20,
+          "valor": 18744972262.15,
+          "persona_natural": false
+        }
+      ]
+    },
+    {
+      "modalidad": "Mínima cuantía",
+      "persona_natural": 1049,
+      "juridica": 4508,
+      "sin_dato": 88,
+      "valor": 504203683644273.25,
+      "top": [
+        {
+          "nombre": "JAIRO OSORIO CABALLERO",
+          "contratos": 24,
+          "valor": 2507827275.4,
+          "persona_natural": true
+        },
+        {
+          "nombre": "SUPRISA S.A.S",
+          "contratos": 20,
+          "valor": 2260672712.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "CONVIL SOLUCIONES S.A.S",
+          "contratos": 20,
+          "valor": 1921946655.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "CEMINSUMOS SAS",
+          "contratos": 19,
+          "valor": 1869717988.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "Deicy Bravo Jojoa",
+          "contratos": 19,
+          "valor": 1669414532.3,
+          "persona_natural": true
+        },
+        {
+          "nombre": "LA PREVISORA S.A. COMPAÑÍA DE SEGUROS",
+          "contratos": 18,
+          "valor": 1555313710.07,
+          "persona_natural": false
+        },
+        {
+          "nombre": "DISTRACOM S.A.",
+          "contratos": 17,
+          "valor": 1478968827.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "GRUPO EMPRESARIAL VID SAS",
+          "contratos": 17,
+          "valor": 1433721628.41,
+          "persona_natural": false
+        },
+        {
+          "nombre": "Intercomercial Medica",
+          "contratos": 16,
+          "valor": 1625519572.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "SOCIEDAD RUSSI SAS",
+          "contratos": 16,
+          "valor": 1605246547.0,
+          "persona_natural": false
+        }
+      ]
+    },
+    {
+      "modalidad": "Selección Abreviada de Menor Cuantía",
+      "persona_natural": 577,
+      "juridica": 3509,
+      "sin_dato": 260,
+      "valor": 1976274991699.25,
+      "top": [
+        {
+          "nombre": "Aseguradora Solidaria de Colombia Entidad Cooperativa.",
+          "contratos": 12,
+          "valor": 2088081123.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "LA PREVISORA S.A. COMPAÑÍA DE SEGUROS",
+          "contratos": 10,
+          "valor": 1668950768.79,
+          "persona_natural": false
+        },
+        {
+          "nombre": "INVECOR2",
+          "contratos": 9,
+          "valor": 4720652224.1,
+          "persona_natural": false
+        },
+        {
+          "nombre": "GRUPO RAMIREZ Y COMPAÑIA SAS",
+          "contratos": 9,
+          "valor": 1827899817.1,
+          "persona_natural": false
+        },
+        {
+          "nombre": "COMERCIALIZADORA Y ACABADOS DEL CAUCA",
+          "contratos": 9,
+          "valor": 641330919.0,
+          "persona_natural": true
+        },
+        {
+          "nombre": "Inversion Comercial y Servicios S.A.S.",
+          "contratos": 8,
+          "valor": 2123814760.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "HC INCOIN SAS",
+          "contratos": 8,
+          "valor": 1571216307.96,
+          "persona_natural": false
+        },
+        {
+          "nombre": "ALAMO CONSTRUCTORES SAS",
+          "contratos": 8,
+          "valor": 1210988257.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "ROTOFIBRA SAS",
+          "contratos": 7,
+          "valor": 8452488166.24,
+          "persona_natural": false
+        },
+        {
+          "nombre": "CONVEG S.A.S",
+          "contratos": 7,
+          "valor": 4227763265.11,
+          "persona_natural": false
+        }
+      ]
+    },
+    {
+      "modalidad": "Contratación régimen especial",
+      "persona_natural": 321,
+      "juridica": 2084,
+      "sin_dato": 26,
+      "valor": 1637992119243.01,
+      "top": [
+        {
+          "nombre": "DISTRIBUIDORA COLOMBIANA DE MEDICAMENTOS Y TECNOLOGIAS EN SALUD S.A.S. BIC - DISCOLMETS S.A.S. BIC",
+          "contratos": 31,
+          "valor": 19813888702.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "COODESTOL",
+          "contratos": 18,
+          "valor": 6988194795.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "Rafael Antonio Salamanca",
+          "contratos": 17,
+          "valor": 7532718812.0,
+          "persona_natural": true
+        },
+        {
+          "nombre": "MEDICOX LTDA",
+          "contratos": 17,
+          "valor": 2571312536.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "INVERSIONES TECNOMEDICA DE COLOMBIA SAS",
+          "contratos": 16,
+          "valor": 8510277856.2,
+          "persona_natural": false
+        },
+        {
+          "nombre": "SOLUCIONES MEDICAS DEL NORTE SAS",
+          "contratos": 15,
+          "valor": 20895407351.46,
+          "persona_natural": false
+        },
+        {
+          "nombre": "JEZA SOLUCIONES EMPRESARIALES SAS",
+          "contratos": 15,
+          "valor": 20842591660.91,
+          "persona_natural": false
+        },
+        {
+          "nombre": "FUNDACION WR TEJIDO SOCIAL",
+          "contratos": 15,
+          "valor": 4344496804.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "MESSER COLOMBIA S.A.",
+          "contratos": 15,
+          "valor": 4021206405.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "REPREFARCOS SAS",
+          "contratos": 13,
+          "valor": 4513239965.0,
+          "persona_natural": false
+        }
+      ]
+    },
+    {
+      "modalidad": "Concurso de méritos abierto",
+      "persona_natural": 178,
+      "juridica": 1627,
+      "sin_dato": 526,
+      "valor": 3670121029571.25,
+      "top": [
+        {
+          "nombre": "ALIANZA INTEGRAL DE PROYECTOS SAS BIC",
+          "contratos": 8,
+          "valor": 7107985519.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "R&MCONSTRUCCIONES E INTERVENTORIAS S.A.S",
+          "contratos": 8,
+          "valor": 2828143123.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "LITORAL CONSULTING SAS",
+          "contratos": 8,
+          "valor": 2799397791.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "SCAIPROYEKTA S.A.S. BIC",
+          "contratos": 7,
+          "valor": 8336520039.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "CONSORCIO INTERVENTORIA SOLAR OXI 2025",
+          "contratos": 7,
+          "valor": 6908851306.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "CONSULTORÍA ESTRUCTURAL Y DE CONSTRUCCIÓN SAS",
+          "contratos": 7,
+          "valor": 1698964231.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "BYD MULTIPROYECTOS SAS",
+          "contratos": 7,
+          "valor": 1172056304.48,
+          "persona_natural": false
+        },
+        {
+          "nombre": "UMBRELLA INTERNATIONAL S.A.S",
+          "contratos": 7,
+          "valor": 687510439.54,
+          "persona_natural": false
+        },
+        {
+          "nombre": "LEMOINE RIVERA INGENIEROS ASOCIADOS SAS",
+          "contratos": 6,
+          "valor": 4108743299.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "Alfa y Omega Ingenieros S.A.S",
+          "contratos": 6,
+          "valor": 3795759568.0,
+          "persona_natural": false
+        }
+      ]
+    },
+    {
+      "modalidad": "Contratación directa",
+      "persona_natural": 170,
+      "juridica": 1573,
+      "sin_dato": 18,
+      "valor": 2584023812677.3296,
+      "top": [
+        {
+          "nombre": "EMPRESA DE DESARROLLO URBANO DE ANDES - EDUAN",
+          "contratos": 16,
+          "valor": 8837093228.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "Empresa Autonoma de El Peñol",
+          "contratos": 16,
+          "valor": 6998351323.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "EDUNA (PROVEEDOR)",
+          "contratos": 11,
+          "valor": 6403636291.75,
+          "persona_natural": false
+        },
+        {
+          "nombre": "AQUALAB SAS",
+          "contratos": 11,
+          "valor": 4674299379.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "ORACLE COLOMBIA LTDA",
+          "contratos": 10,
+          "valor": 9179989727.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "EMPRESA DE DESARROLLO TERRITORIAL DE DON MATIAS",
+          "contratos": 10,
+          "valor": 2837748946.06,
+          "persona_natural": false
+        },
+        {
+          "nombre": "Esri Colombia S.A.S",
+          "contratos": 10,
+          "valor": 1709059841.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "HERNEY RIVERA CALAMBAS",
+          "contratos": 7,
+          "valor": 2129169020.0,
+          "persona_natural": true
+        },
+        {
+          "nombre": "PRORSUM SOLUCIONES SAS ZOMAC",
+          "contratos": 6,
+          "valor": 11371898968.9,
+          "persona_natural": false
+        },
+        {
+          "nombre": "INFITULUA E.I.C.E",
+          "contratos": 6,
+          "valor": 11271307240.34,
+          "persona_natural": false
+        }
+      ]
+    },
+    {
+      "modalidad": "Licitación pública Obra Publica",
+      "persona_natural": 36,
+      "juridica": 814,
+      "sin_dato": 610,
+      "valor": 24160651059303.06,
+      "top": [
+        {
+          "nombre": "PRODIAC LTDA",
+          "contratos": 5,
+          "valor": 7012286741.29,
+          "persona_natural": false
+        },
+        {
+          "nombre": "FAENA GO",
+          "contratos": 4,
+          "valor": 35668653786.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "Altair Tecnik S.A.S.",
+          "contratos": 4,
+          "valor": 11877815339.15,
+          "persona_natural": false
+        },
+        {
+          "nombre": "GMZ CONSTRUCTORES SAS",
+          "contratos": 4,
+          "valor": 8869207093.09,
+          "persona_natural": false
+        },
+        {
+          "nombre": "persona natural",
+          "contratos": 4,
+          "valor": 4370298747.27,
+          "persona_natural": true
+        },
+        {
+          "nombre": "AASING SAS",
+          "contratos": 4,
+          "valor": 2013553503.11,
+          "persona_natural": false
+        },
+        {
+          "nombre": "Techne SAS",
+          "contratos": 4,
+          "valor": 1880611238.07,
+          "persona_natural": false
+        },
+        {
+          "nombre": "VINCOCOL S.A.S.",
+          "contratos": 4,
+          "valor": 1734542305.68,
+          "persona_natural": false
+        },
+        {
+          "nombre": "URBACON SAS",
+          "contratos": 3,
+          "valor": 89047867668.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "OPEN INGENIERIA SAS",
+          "contratos": 3,
+          "valor": 22241204975.0,
+          "persona_natural": false
+        }
+      ]
+    },
+    {
+      "modalidad": "Contratación régimen especial (con ofertas)",
+      "persona_natural": 93,
+      "juridica": 917,
+      "sin_dato": 153,
+      "valor": 4277059828916.3403,
+      "top": [
+        {
+          "nombre": "DISTRIBUIDORA COLOMBIANA DE MEDICAMENTOS Y TECNOLOGIAS EN SALUD S.A.S. BIC - DISCOLMETS S.A.S. BIC",
+          "contratos": 12,
+          "valor": 22184285995.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "Raizing S.A.S",
+          "contratos": 8,
+          "valor": 6912529199.92,
+          "persona_natural": false
+        },
+        {
+          "nombre": "Alfa AM",
+          "contratos": 8,
+          "valor": 3341447472.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "JEZA SOLUCIONES EMPRESARIALES SAS",
+          "contratos": 7,
+          "valor": 9898593479.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "CALDAS MEDICAS SAS",
+          "contratos": 7,
+          "valor": 7648996123.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "POLIMEDIC´S FARMACÉUTICA S.A.S",
+          "contratos": 6,
+          "valor": 8737898420.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "LM INSTRUMENTS S.A.",
+          "contratos": 6,
+          "valor": 6163297905.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "DISMED PHARMA S.A.S.",
+          "contratos": 6,
+          "valor": 4638114986.5,
+          "persona_natural": false
+        },
+        {
+          "nombre": "Rafael Antonio Salamanca",
+          "contratos": 5,
+          "valor": 4271174866.0,
+          "persona_natural": true
+        },
+        {
+          "nombre": "TU SALUD H&G SOCIEDAD POR ACCIONES SIMPLIFICADA SAS",
+          "contratos": 5,
+          "valor": 2908972416.0,
+          "persona_natural": false
+        }
+      ]
+    },
+    {
+      "modalidad": "Contratación Directa (con ofertas)",
+      "persona_natural": 12,
+      "juridica": 509,
+      "sin_dato": 13,
+      "valor": 2741376073642.1797,
+      "top": [
+        {
+          "nombre": "AIR-E S.A.S. E.S.P.",
+          "contratos": 24,
+          "valor": 97116824022.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "EMPRESA DE DESARROLLO TERRITORIAL DE PUERTO TRIUNFO",
+          "contratos": 11,
+          "valor": 8989072834.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "PRORSUM SOLUCIONES SAS ZOMAC",
+          "contratos": 10,
+          "valor": 4830778126.81,
+          "persona_natural": false
+        },
+        {
+          "nombre": "ATD INDUSTRY SAS",
+          "contratos": 8,
+          "valor": 2440989466.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "AQUALAB SAS",
+          "contratos": 8,
+          "valor": 1882697039.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "Branch Of Microsoft Colombia Inc",
+          "contratos": 7,
+          "valor": 14771244589.4,
+          "persona_natural": false
+        },
+        {
+          "nombre": "EDURHA CAREPA - PROVEEDOR",
+          "contratos": 7,
+          "valor": 5091368630.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "EMPRESA DE DESARROLLO, COMPETITIVIDAD Y PRODUCTIVIDAD DE GUARNE - EMEGA",
+          "contratos": 7,
+          "valor": 3249138132.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "Círculo de Suboficiales de las Fuerzas Militares",
+          "contratos": 6,
+          "valor": 1213225752.08,
+          "persona_natural": false
+        },
+        {
+          "nombre": "EMPRESA DE DESARROLLO TERRITORIAL DE DON MATIAS",
+          "contratos": 5,
+          "valor": 4035204302.0,
+          "persona_natural": false
+        }
+      ]
+    },
+    {
+      "modalidad": "Licitación pública",
+      "persona_natural": 8,
+      "juridica": 292,
+      "sin_dato": 46,
+      "valor": 2023804012422.72,
+      "top": [
+        {
+          "nombre": "UNIPCOL",
+          "contratos": 5,
+          "valor": 11276868460.5,
+          "persona_natural": false
+        },
+        {
+          "nombre": "GECOLSA",
+          "contratos": 4,
+          "valor": 5811700000.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "FUPADESO",
+          "contratos": 3,
+          "valor": 65864555520.48,
+          "persona_natural": false
+        },
+        {
+          "nombre": "DESARROLLO E INTEGRACION DE TECNOLOGIA Y COMUNICACIONES SAS - DEINTEKO SAS",
+          "contratos": 3,
+          "valor": 15363591475.99,
+          "persona_natural": false
+        },
+        {
+          "nombre": "CORPORACIÓN HACIA UN ORIENTE MEJOR",
+          "contratos": 3,
+          "valor": 4838876803.16,
+          "persona_natural": false
+        },
+        {
+          "nombre": "Laboratorios Retina S.A.S",
+          "contratos": 3,
+          "valor": 3189418488.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "DELTA PLUS COLOMBIA S A S",
+          "contratos": 3,
+          "valor": 2508394420.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "UNION TEMPORAL ATLANTIC",
+          "contratos": 2,
+          "valor": 48545474236.21,
+          "persona_natural": false
+        },
+        {
+          "nombre": "Frescampo S.A.S",
+          "contratos": 2,
+          "valor": 24064200264.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "PRODUCTORA DE ALIMENTOS PA S.A.S.",
+          "contratos": 2,
+          "valor": 19582059610.8,
+          "persona_natural": false
+        }
+      ]
+    },
+    {
+      "modalidad": "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes",
+      "persona_natural": 1,
+      "juridica": 26,
+      "sin_dato": 11,
+      "valor": 239868693369.76,
+      "top": [
+        {
+          "nombre": "CONSORCIO LIMPIEZA ARROYOS 2025",
+          "contratos": 2,
+          "valor": 8500000000.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "CONSORCIO PROTECCION CARTAGENA",
+          "contratos": 1,
+          "valor": 164863227272.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "CONSORCIO HAMSA",
+          "contratos": 1,
+          "valor": 10419476467.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "UT OPTIMIZACION AC SILOS 2026",
+          "contratos": 1,
+          "valor": 6980973988.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "AVIATION GROUP S.A.S.",
+          "contratos": 1,
+          "valor": 5000000000.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "MIGDAL SEGURIDAD Y TECNOLOGIA SAS",
+          "contratos": 1,
+          "valor": 3997707747.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "BIOELECTRIC INGENIEROS S.A.S",
+          "contratos": 1,
+          "valor": 3724754371.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "U.T. AGUA POTABLE PARA LA COMUNIDAD INDIGENA DE MOCAGUA",
+          "contratos": 1,
+          "valor": 3638965652.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "CONSORCIO CASA MUJER FUNZA 2026",
+          "contratos": 1,
+          "valor": 3634394007.0,
+          "persona_natural": false
+        },
+        {
+          "nombre": "CONSORCIO TEKTÓN",
+          "contratos": 1,
+          "valor": 2988632321.0,
+          "persona_natural": false
+        }
+      ]
+    }
+  ]
+}
